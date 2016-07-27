@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="取颜色">
+</Property><Property Name="解决方案文件" Value="J:\YLN_Project\My_Project\(一期)项目文件\取颜色\取颜色.sln">
+</Property><Property Name="用户选项文件" Value="J:\YLN_Project\My_Project\(一期)项目文件\取颜色\取颜色.suo">
+</Property><Property Name="Date" Value="2014年11月27日">
+</Property><Property Name="Time" Value="20:46">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="取颜色.sln" Description="文件已成功备份为 J:\YLN_Project\My_Project\(一期)项目文件\取颜色\Backup\取颜色.sln">
+</Event><Event ErrorLevel="0" Project="" Source="取颜色.suo" Description="文件已成功备份为 J:\YLN_Project\My_Project\(一期)项目文件\取颜色\Backup\取颜色.suo">
+</Event><Event ErrorLevel="0" Project="取颜色" Source="取颜色\取颜色.csproj" Description="项目文件已成功备份为 J:\YLN_Project\My_Project\(一期)项目文件\取颜色\Backup\取颜色\取颜色.csproj">
+</Event><Event ErrorLevel="0" Project="取颜色" Source="取颜色\Form1.cs" Description="文件已成功备份为 J:\YLN_Project\My_Project\(一期)项目文件\取颜色\Backup\取颜色\Form1.cs">
+</Event><Event ErrorLevel="0" Project="取颜色" Source="取颜色\Form1.Designer.cs" Description="文件已成功备份为 J:\YLN_Project\My_Project\(一期)项目文件\取颜色\Backup\取颜色\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="取颜色" Source="取颜色\GetColor.cs" Description="文件已成功备份为 J:\YLN_Project\My_Project\(一期)项目文件\取颜色\Backup\取颜色\GetColor.cs">
+</Event><Event ErrorLevel="0" Project="取颜色" Source="取颜色\Program.cs" Description="文件已成功备份为 J:\YLN_Project\My_Project\(一期)项目文件\取颜色\Backup\取颜色\Program.cs">
+</Event><Event ErrorLevel="0" Project="取颜色" Source="取颜色\Properties\AssemblyInfo.cs" Description="文件已成功备份为 J:\YLN_Project\My_Project\(一期)项目文件\取颜色\Backup\取颜色\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="取颜色" Source="取颜色\Properties\Resources.Designer.cs" Description="文件已成功备份为 J:\YLN_Project\My_Project\(一期)项目文件\取颜色\Backup\取颜色\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="取颜色" Source="取颜色\Properties\Settings.Designer.cs" Description="文件已成功备份为 J:\YLN_Project\My_Project\(一期)项目文件\取颜色\Backup\取颜色\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="取颜色" Source="取颜色\Properties\Settings.settings" Description="文件已成功备份为 J:\YLN_Project\My_Project\(一期)项目文件\取颜色\Backup\取颜色\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="取颜色" Source="取颜色\Form1.resx" Description="文件已成功备份为 J:\YLN_Project\My_Project\(一期)项目文件\取颜色\Backup\取颜色\Form1.resx">
+</Event><Event ErrorLevel="0" Project="取颜色" Source="取颜色\Properties\Resources.resx" Description="文件已成功备份为 J:\YLN_Project\My_Project\(一期)项目文件\取颜色\Backup\取颜色\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="取颜色" Source="取颜色\取颜色.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="取颜色" Source="取颜色\取颜色.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="取颜色.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="取颜色.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="取颜色" Source="取颜色\取颜色.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

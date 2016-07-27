@@ -1,0 +1,36 @@
+﻿生成启动时间为 2015/4/6 0:21:37。
+     1>项目“K:\Home_Project\CSharp\emWinExample_uCOS-II_2013-1-28\Pro.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt App\emWin_App.c
+         emWin_App.c
+     1>k:\home_project\csharp\emwinexample_ucos-ii_2013-1-28\gui\wm.h(140): warning C4005: “WM_TOUCH”: 宏重定义
+         c:\program files (x86)\windows kits\8.1\include\um\winuser.h(2304): note: 参见“WM_TOUCH”的前一个定义
+       Link:
+         E:\Program Files\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"K:\Home_Project\CSharp\emWinExample_uCOS-II_2013-1-28\Debug\Pro.exe" /INCREMENTAL /NOLOGO GUI.lib GUISim.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBC.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"K:\Home_Project\CSharp\emWinExample_uCOS-II_2013-1-28\Debug\Pro.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"K:\Home_Project\CSharp\emWinExample_uCOS-II_2013-1-28\Debug\Pro.lib" /MACHINE:X86 Debug\emWin_App.obj
+         Debug\uCOS_APP.obj
+         Debug\GUIConf.obj
+         Debug\LCDConf.obj
+         Debug\SIMConf.obj
+         Debug\WinMain.obj
+         Debug\os_cpu_c.obj
+         Debug\os_dbg.obj
+         Debug\pc.obj
+         Debug\os_core.obj
+         Debug\os_flag.obj
+         Debug\os_mbox.obj
+         Debug\os_mem.obj
+         Debug\os_mutex.obj
+         Debug\os_q.obj
+         Debug\os_sem.obj
+         Debug\os_task.obj
+         Debug\os_time.obj
+         Debug\os_tmr.obj
+         GUI\GUI.lib
+         Simulation\GUISim.lib
+         Simulation\Simulation.res
+         Pro.vcxproj -> K:\Home_Project\CSharp\emWinExample_uCOS-II_2013-1-28\Debug\Pro.exe
+     1>已完成生成项目“K:\Home_Project\CSharp\emWinExample_uCOS-II_2013-1-28\Pro.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.51

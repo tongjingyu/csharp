@@ -1,0 +1,12 @@
+C:\Users\Cat\Desktop\MJPG-Streamer\MJPG-Streamer\bin\Debug\MJPG-Streamer.exe.config
+C:\Users\Cat\Desktop\MJPG-Streamer\MJPG-Streamer\obj\Debug\MJPG-Streamer.csprojResolveAssemblyReference.cache
+C:\Users\Cat\Desktop\MJPG-Streamer\MJPG-Streamer\obj\Debug\MJPG_Streamer.Form1.resources
+C:\Users\Cat\Desktop\MJPG-Streamer\MJPG-Streamer\obj\Debug\MJPG_Streamer.Properties.Resources.resources
+C:\Users\Cat\Desktop\MJPG-Streamer\MJPG-Streamer\obj\Debug\MJPG-Streamer.csproj.GenerateResource.Cache
+C:\Users\Cat\Desktop\MJPG-Streamer\MJPG-Streamer\bin\Debug\MJPG-Streamer.exe
+C:\Users\Cat\Desktop\MJPG-Streamer\MJPG-Streamer\bin\Debug\MJPG-Streamer.pdb
+C:\Users\Cat\Desktop\MJPG-Streamer\MJPG-Streamer\obj\Debug\MJPG-Streamer.exe
+C:\Users\Cat\Desktop\MJPG-Streamer\MJPG-Streamer\obj\Debug\MJPG-Streamer.pdb
+K:\Home_Project\CSharp\MJPG-Streamer\bin\Debug\MJPG-Streamer.exe.config
+K:\Home_Project\CSharp\MJPG-Streamer\obj\Debug\MJPG-Streamer.exe
+K:\Home_Project\CSharp\MJPG-Streamer\obj\Debug\MJPG-Streamer.pdb

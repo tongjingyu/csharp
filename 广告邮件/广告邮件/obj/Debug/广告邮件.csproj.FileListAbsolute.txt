@@ -1,0 +1,11 @@
+F:\My Project\CSharp\广告邮件\广告邮件\bin\Debug\广告邮件.exe
+F:\My Project\CSharp\广告邮件\广告邮件\bin\Debug\广告邮件.pdb
+F:\My Project\CSharp\广告邮件\广告邮件\obj\Debug\ResolveAssemblyReference.cache
+F:\My Project\CSharp\广告邮件\广告邮件\obj\Debug\广告邮件.Main.resources
+F:\My Project\CSharp\广告邮件\广告邮件\obj\Debug\广告邮件.Properties.Resources.resources
+F:\My Project\CSharp\广告邮件\广告邮件\obj\Debug\广告邮件.csproj.GenerateResource.Cache
+F:\My Project\CSharp\广告邮件\广告邮件\obj\Debug\广告邮件.exe
+F:\My Project\CSharp\广告邮件\广告邮件\obj\Debug\广告邮件.pdb
+F:\My Project\CSharp\广告邮件\广告邮件\obj\Debug\广告邮件.Content.resources
+J:\SenCat_Project\CSharp\广告邮件\广告邮件\obj\Debug\广告邮件.exe
+J:\SenCat_Project\CSharp\广告邮件\广告邮件\obj\Debug\广告邮件.pdb

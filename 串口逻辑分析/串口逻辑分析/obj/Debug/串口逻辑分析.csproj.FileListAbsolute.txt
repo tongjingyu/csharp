@@ -1,0 +1,12 @@
+D:\TOM\CSharp\串口逻辑分析\串口逻辑分析\bin\Debug\串口逻辑分析.exe.config
+D:\TOM\CSharp\串口逻辑分析\串口逻辑分析\bin\Debug\串口逻辑分析.exe
+D:\TOM\CSharp\串口逻辑分析\串口逻辑分析\bin\Debug\串口逻辑分析.pdb
+D:\TOM\CSharp\串口逻辑分析\串口逻辑分析\obj\Debug\串口逻辑分析.Form1.resources
+D:\TOM\CSharp\串口逻辑分析\串口逻辑分析\obj\Debug\串口逻辑分析.Properties.Resources.resources
+D:\TOM\CSharp\串口逻辑分析\串口逻辑分析\obj\Debug\串口逻辑分析.csproj.GenerateResource.Cache
+D:\TOM\CSharp\串口逻辑分析\串口逻辑分析\obj\Debug\串口逻辑分析.exe
+D:\TOM\CSharp\串口逻辑分析\串口逻辑分析\obj\Debug\串口逻辑分析.pdb
+D:\TOM\CSharp\串口逻辑分析\串口逻辑分析\obj\Debug\串口逻辑分析.csprojResolveAssemblyReference.cache
+D:\TOM\DOC\CSharp\串口逻辑分析\串口逻辑分析\bin\Debug\串口逻辑分析.exe.config
+D:\TOM\DOC\CSharp\串口逻辑分析\串口逻辑分析\obj\Debug\串口逻辑分析.exe
+D:\TOM\DOC\CSharp\串口逻辑分析\串口逻辑分析\obj\Debug\串口逻辑分析.pdb

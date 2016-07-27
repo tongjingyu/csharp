@@ -1,0 +1,10 @@
+K:\Home_Project\CSharp\WORD替换\WORD替换\bin\Debug\WORD替换.exe.config
+K:\Home_Project\CSharp\WORD替换\WORD替换\obj\Debug\WORD替换.csprojResolveAssemblyReference.cache
+K:\Home_Project\CSharp\WORD替换\WORD替换\obj\Debug\WORD替换.csproj.ResolveComReference.cache
+K:\Home_Project\CSharp\WORD替换\WORD替换\obj\Debug\WORD替换.Form1.resources
+K:\Home_Project\CSharp\WORD替换\WORD替换\obj\Debug\WORD替换.Properties.Resources.resources
+K:\Home_Project\CSharp\WORD替换\WORD替换\obj\Debug\WORD替换.csproj.GenerateResource.Cache
+K:\Home_Project\CSharp\WORD替换\WORD替换\bin\Debug\WORD替换.exe
+K:\Home_Project\CSharp\WORD替换\WORD替换\bin\Debug\WORD替换.pdb
+K:\Home_Project\CSharp\WORD替换\WORD替换\obj\Debug\WORD替换.exe
+K:\Home_Project\CSharp\WORD替换\WORD替换\obj\Debug\WORD替换.pdb

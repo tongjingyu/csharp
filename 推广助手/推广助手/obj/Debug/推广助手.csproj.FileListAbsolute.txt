@@ -1,0 +1,8 @@
+E:\Project\CSharp\推广助手\推广助手\bin\Debug\推广助手.exe
+E:\Project\CSharp\推广助手\推广助手\bin\Debug\推广助手.pdb
+E:\Project\CSharp\推广助手\推广助手\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CSharp\推广助手\推广助手\obj\Debug\推广助手.Form1.resources
+E:\Project\CSharp\推广助手\推广助手\obj\Debug\推广助手.Properties.Resources.resources
+E:\Project\CSharp\推广助手\推广助手\obj\Debug\推广助手.csproj.GenerateResource.Cache
+E:\Project\CSharp\推广助手\推广助手\obj\Debug\推广助手.exe
+E:\Project\CSharp\推广助手\推广助手\obj\Debug\推广助手.pdb

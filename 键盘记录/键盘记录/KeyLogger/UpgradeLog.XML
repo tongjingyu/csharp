@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="KeyLogger">
+</Property><Property Name="解决方案文件" Value="C:\Users\TOM\Desktop\键盘记录\KeyLogger\KeyLogger.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\TOM\Desktop\键盘记录\KeyLogger\KeyLogger.suo">
+</Property><Property Name="Date" Value="2014年4月29日">
+</Property><Property Name="Time" Value="18:32">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="KeyLogger.sln" Description="文件已成功备份为 C:\Users\TOM\Desktop\键盘记录\KeyLogger\Backup\KeyLogger.sln">
+</Event><Event ErrorLevel="0" Project="" Source="KeyLogger.suo" Description="文件已成功备份为 C:\Users\TOM\Desktop\键盘记录\KeyLogger\Backup\KeyLogger.suo">
+</Event><Event ErrorLevel="0" Project="KeyLogger" Source="KeyLogger\KeyLogger.csproj" Description="项目文件已成功备份为 C:\Users\TOM\Desktop\键盘记录\KeyLogger\Backup\KeyLogger\KeyLogger.csproj">
+</Event><Event ErrorLevel="0" Project="KeyLogger" Source="KeyLogger\Class1.cs" Description="文件已成功备份为 C:\Users\TOM\Desktop\键盘记录\KeyLogger\Backup\KeyLogger\Class1.cs">
+</Event><Event ErrorLevel="0" Project="KeyLogger" Source="KeyLogger\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\TOM\Desktop\键盘记录\KeyLogger\Backup\KeyLogger\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="KeyLogger" Source="KeyLogger\KeyLogger.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="KeyLogger" Source="KeyLogger\KeyLogger.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="KeyLogger.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="KeyLogger.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="KeyLogger" Source="KeyLogger\KeyLogger.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

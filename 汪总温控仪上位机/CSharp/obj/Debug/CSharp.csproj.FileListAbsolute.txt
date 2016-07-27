@@ -1,0 +1,27 @@
+F:\My Project\汪总的温度仪\CSharp\CSharp\bin\Debug\CSharp.exe
+F:\My Project\汪总的温度仪\CSharp\CSharp\bin\Debug\CSharp.pdb
+F:\My Project\汪总的温度仪\CSharp\CSharp\obj\Debug\ResolveAssemblyReference.cache
+F:\My Project\汪总的温度仪\CSharp\CSharp\obj\Debug\CSharp.Properties.Resources.resources
+F:\My Project\汪总的温度仪\CSharp\CSharp\obj\Debug\CSharp.csproj.GenerateResource.Cache
+F:\My Project\汪总的温度仪\CSharp\CSharp\obj\Debug\CSharp.exe
+F:\My Project\汪总的温度仪\CSharp\CSharp\obj\Debug\CSharp.pdb
+F:\My Project\汪总的温度仪\CSharp\CSharp\obj\Debug\CSharp.Main.resources
+J:\SenCat_Project\汪总的温度仪\CSharp\CSharp\obj\Debug\CSharp.exe
+J:\SenCat_Project\汪总的温度仪\CSharp\CSharp\obj\Debug\CSharp.pdb
+J:\SenCat_Project\CSharp\汪总温控仪上位机\CSharp\obj\Debug\CSharp.exe
+J:\SenCat_Project\CSharp\汪总温控仪上位机\CSharp\obj\Debug\CSharp.pdb
+J:\SenCat_Project\CSharp\汪总温控仪上位机\CSharp\bin\Debug\CSharp.exe
+J:\SenCat_Project\CSharp\汪总温控仪上位机\CSharp\bin\Debug\CSharp.pdb
+J:\SenCat_Project\CSharp\汪总温控仪上位机\CSharp\obj\Debug\ResolveAssemblyReference.cache
+J:\SenCat_Project\CSharp\汪总温控仪上位机\CSharp\obj\Debug\CSharp.Main.resources
+J:\SenCat_Project\CSharp\汪总温控仪上位机\CSharp\obj\Debug\CSharp.Properties.Resources.resources
+J:\SenCat_Project\CSharp\汪总温控仪上位机\CSharp\obj\Debug\CSharp.csproj.GenerateResource.Cache
+K:\Home_Project\CSharp\汪总温控仪上位机\CSharp\bin\Debug\CSharp.exe.config
+K:\Home_Project\CSharp\汪总温控仪上位机\CSharp\obj\Debug\CSharp.exe
+K:\Home_Project\CSharp\汪总温控仪上位机\CSharp\obj\Debug\CSharp.pdb
+K:\Home_Project\CSharp\汪总温控仪上位机\CSharp\bin\Debug\CSharp.exe
+K:\Home_Project\CSharp\汪总温控仪上位机\CSharp\bin\Debug\CSharp.pdb
+K:\Home_Project\CSharp\汪总温控仪上位机\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+K:\Home_Project\CSharp\汪总温控仪上位机\CSharp\obj\Debug\CSharp.Main.resources
+K:\Home_Project\CSharp\汪总温控仪上位机\CSharp\obj\Debug\CSharp.Properties.Resources.resources
+K:\Home_Project\CSharp\汪总温控仪上位机\CSharp\obj\Debug\CSharp.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+D:\TOM\DOC\CSharp\上传程序\上传程序\bin\Debug\上传程序.exe.config
+D:\TOM\DOC\CSharp\上传程序\上传程序\bin\Debug\上传程序.exe
+D:\TOM\DOC\CSharp\上传程序\上传程序\bin\Debug\上传程序.pdb
+D:\TOM\DOC\CSharp\上传程序\上传程序\obj\Debug\上传程序.csprojResolveAssemblyReference.cache
+D:\TOM\DOC\CSharp\上传程序\上传程序\obj\Debug\上传程序.exe
+D:\TOM\DOC\CSharp\上传程序\上传程序\obj\Debug\上传程序.pdb
+K:\Home_Project\CSharp\上传程序\上传程序\bin\Debug\上传程序.exe.config
+K:\Home_Project\CSharp\上传程序\上传程序\obj\Debug\上传程序.exe
+K:\Home_Project\CSharp\上传程序\上传程序\obj\Debug\上传程序.pdb
+K:\Home_Project\CSharp\上传程序\上传程序\bin\Debug\上传程序.exe
+K:\Home_Project\CSharp\上传程序\上传程序\bin\Debug\上传程序.pdb
+K:\Home_Project\CSharp\上传程序\上传程序\obj\Debug\上传程序.csprojResolveAssemblyReference.cache

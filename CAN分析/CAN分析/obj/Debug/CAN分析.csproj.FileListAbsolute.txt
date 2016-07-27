@@ -1,0 +1,12 @@
+K:\Home_Project\CSharp\CAN分析\CAN分析\bin\Debug\CAN分析.exe.config
+K:\Home_Project\CSharp\CAN分析\CAN分析\bin\Debug\CAN分析.exe
+K:\Home_Project\CSharp\CAN分析\CAN分析\bin\Debug\CAN分析.pdb
+K:\Home_Project\CSharp\CAN分析\CAN分析\obj\Debug\CAN分析.csprojResolveAssemblyReference.cache
+K:\Home_Project\CSharp\CAN分析\CAN分析\obj\Debug\CAN分析.Form1.resources
+K:\Home_Project\CSharp\CAN分析\CAN分析\obj\Debug\CAN分析.Properties.Resources.resources
+K:\Home_Project\CSharp\CAN分析\CAN分析\obj\Debug\CAN分析.csproj.GenerateResource.Cache
+K:\Home_Project\CSharp\CAN分析\CAN分析\obj\Debug\CAN分析.exe
+K:\Home_Project\CSharp\CAN分析\CAN分析\obj\Debug\CAN分析.pdb
+D:\TOM\CSharp\CAN分析\CAN分析\bin\Debug\CAN分析.exe.config
+D:\TOM\CSharp\CAN分析\CAN分析\obj\Debug\CAN分析.exe
+D:\TOM\CSharp\CAN分析\CAN分析\obj\Debug\CAN分析.pdb

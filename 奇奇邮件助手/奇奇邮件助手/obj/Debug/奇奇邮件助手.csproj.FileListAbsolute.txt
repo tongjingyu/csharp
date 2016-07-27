@@ -1,0 +1,91 @@
+F:\My Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\ResolveAssemblyReference.cache
+F:\My Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.Properties.Resources.resources
+F:\My Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.csproj.GenerateResource.Cache
+F:\My Project\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\奇奇邮件助手.exe
+F:\My Project\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\奇奇邮件助手.pdb
+F:\My Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.exe
+F:\My Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.pdb
+F:\My Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.Main.resources
+J:\SenCat_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.exe
+J:\SenCat_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.pdb
+J:\SenCat_Project\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\奇奇邮件助手.exe
+J:\SenCat_Project\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\奇奇邮件助手.pdb
+J:\SenCat_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.Main.resources
+J:\SenCat_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.Properties.Resources.resources
+J:\SenCat_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.csproj.GenerateResource.Cache
+J:\SenCat_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.关于.resources
+J:\SenCat_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.qq群成员导出.resources
+J:\SenCat_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.QQ邮箱通信录转换.resources
+J:\SenCat_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.共享.resources
+J:\SenCat_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.登陆.resources
+J:\SenCat_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.注册.resources
+J:\SenCat_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.意见反馈.resources
+J:\SenCat_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.csprojResolveAssemblyReference.cache
+J:\SenCat_Project\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\MySql.Data.dll
+J:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.exe
+J:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.pdb
+J:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\奇奇邮件助手.exe
+J:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\奇奇邮件助手.pdb
+J:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\MySql.Data.dll
+J:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.csprojResolveAssemblyReference.cache
+J:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.意见反馈.resources
+J:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.Main.resources
+J:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.Properties.Resources.resources
+J:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.qq群成员导出.resources
+J:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.QQ邮箱通信录转换.resources
+J:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.共享.resources
+J:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.关于.resources
+J:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.注册.resources
+J:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.登陆.resources
+J:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.csproj.GenerateResource.Cache
+K:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\奇奇邮件助手.exe.config
+K:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.exe
+K:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.pdb
+K:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\奇奇邮件助手.exe
+K:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\奇奇邮件助手.pdb
+K:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\MySql.Data.dll
+K:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.csprojResolveAssemblyReference.cache
+K:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.意见反馈.resources
+K:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.Main.resources
+K:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.Properties.Resources.resources
+K:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.qq群成员导出.resources
+K:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.QQ邮箱通信录转换.resources
+K:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.共享.resources
+K:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.关于.resources
+K:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.注册.resources
+K:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.登陆.resources
+K:\Home_Project\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.csproj.GenerateResource.Cache
+D:\TOM\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\奇奇邮件助手.exe.config
+D:\TOM\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.exe
+D:\TOM\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.pdb
+D:\TOM\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\奇奇邮件助手.exe
+D:\TOM\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\奇奇邮件助手.pdb
+D:\TOM\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\MySql.Data.dll
+D:\TOM\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.csprojResolveAssemblyReference.cache
+D:\TOM\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.意见反馈.resources
+D:\TOM\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.Main.resources
+D:\TOM\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.Properties.Resources.resources
+D:\TOM\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.qq群成员导出.resources
+D:\TOM\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.QQ邮箱通信录转换.resources
+D:\TOM\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.共享.resources
+D:\TOM\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.关于.resources
+D:\TOM\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.注册.resources
+D:\TOM\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.登陆.resources
+D:\TOM\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.csproj.GenerateResource.Cache
+D:\TOM\DOC\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\奇奇邮件助手.exe.config
+D:\TOM\DOC\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.exe
+D:\TOM\DOC\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.pdb
+D:\TOM\DOC\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\奇奇邮件助手.exe
+D:\TOM\DOC\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\奇奇邮件助手.pdb
+D:\TOM\DOC\CSharp\奇奇邮件助手\奇奇邮件助手\bin\Debug\MySql.Data.dll
+D:\TOM\DOC\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.csprojResolveAssemblyReference.cache
+D:\TOM\DOC\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.意见反馈.resources
+D:\TOM\DOC\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.Main.resources
+D:\TOM\DOC\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.Properties.Resources.resources
+D:\TOM\DOC\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.qq群成员导出.resources
+D:\TOM\DOC\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.QQ邮箱通信录转换.resources
+D:\TOM\DOC\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.共享.resources
+D:\TOM\DOC\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.关于.resources
+D:\TOM\DOC\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.注册.resources
+D:\TOM\DOC\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.登陆.resources
+D:\TOM\DOC\CSharp\奇奇邮件助手\奇奇邮件助手\obj\Debug\奇奇邮件助手.csproj.GenerateResource.Cache

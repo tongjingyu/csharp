@@ -1,0 +1,13 @@
+K:\Home_Project\CSharp\RS485通信\RS485通信\obj\Release\RS485通信.COM设置.resources
+K:\Home_Project\CSharp\RS485通信\RS485通信\obj\Release\RS485通信.RS485.resources
+K:\Home_Project\CSharp\RS485通信\RS485通信\obj\Release\RS485通信.csproj.GenerateResource.Cache
+K:\Home_Project\CSharp\RS485通信\RS485通信\obj\Release\RS485通信.csprojResolveAssemblyReference.cache
+K:\Home_Project\CSharp\RS485通信\RS485通信\obj\Release\RS485通信.AT指令.resources
+K:\Home_Project\CSharp\RS485通信\RS485通信\obj\Release\RS485通信.AT_HELP.resources
+K:\Home_Project\CSharp\RS485通信\RS485通信\obj\Release\RS485通信.CC_Edit.resources
+K:\Home_Project\CSharp\RS485通信\RS485通信\bin\Release\Geek.exe.config
+K:\Home_Project\CSharp\RS485通信\RS485通信\bin\Release\Geek.exe
+K:\Home_Project\CSharp\RS485通信\RS485通信\bin\Release\Geek.pdb
+K:\Home_Project\CSharp\RS485通信\RS485通信\obj\Release\Geek.Properties.Resources.resources
+K:\Home_Project\CSharp\RS485通信\RS485通信\obj\Release\Geek.exe
+K:\Home_Project\CSharp\RS485通信\RS485通信\obj\Release\Geek.pdb

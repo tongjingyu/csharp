@@ -1,0 +1,14 @@
+J:\SenCat_Project\CSharp\毛毛虫\毛毛虫\bin\Debug\毛毛虫.exe
+J:\SenCat_Project\CSharp\毛毛虫\毛毛虫\bin\Debug\毛毛虫.pdb
+J:\SenCat_Project\CSharp\毛毛虫\毛毛虫\obj\x86\Debug\毛毛虫.Properties.Resources.resources
+J:\SenCat_Project\CSharp\毛毛虫\毛毛虫\obj\x86\Debug\毛毛虫.csproj.GenerateResource.Cache
+J:\SenCat_Project\CSharp\毛毛虫\毛毛虫\obj\x86\Debug\毛毛虫.exe
+J:\SenCat_Project\CSharp\毛毛虫\毛毛虫\obj\x86\Debug\毛毛虫.pdb
+J:\SenCat_Project\CSharp\毛毛虫\毛毛虫\obj\x86\Debug\毛毛虫.Form1.resources
+J:\Home_Project\CSharp\毛毛虫\毛毛虫\obj\x86\Debug\毛毛虫.exe
+J:\Home_Project\CSharp\毛毛虫\毛毛虫\obj\x86\Debug\毛毛虫.pdb
+J:\Home_Project\CSharp\毛毛虫\毛毛虫\bin\Debug\毛毛虫.exe
+J:\Home_Project\CSharp\毛毛虫\毛毛虫\bin\Debug\毛毛虫.pdb
+J:\Home_Project\CSharp\毛毛虫\毛毛虫\obj\x86\Debug\毛毛虫.Form1.resources
+J:\Home_Project\CSharp\毛毛虫\毛毛虫\obj\x86\Debug\毛毛虫.Properties.Resources.resources
+J:\Home_Project\CSharp\毛毛虫\毛毛虫\obj\x86\Debug\毛毛虫.csproj.GenerateResource.Cache

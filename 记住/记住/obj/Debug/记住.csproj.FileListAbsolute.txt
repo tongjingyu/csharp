@@ -1,0 +1,16 @@
+E:\Project\CSharp\记住\记住\bin\Debug\记住.exe
+E:\Project\CSharp\记住\记住\bin\Debug\记住.pdb
+E:\Project\CSharp\记住\记住\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CSharp\记住\记住\obj\Debug\记住.Form1.resources
+E:\Project\CSharp\记住\记住\obj\Debug\记住.Properties.Resources.resources
+E:\Project\CSharp\记住\记住\obj\Debug\记住.csproj.GenerateResource.Cache
+E:\Project\CSharp\记住\记住\obj\Debug\记住.exe
+E:\Project\CSharp\记住\记住\obj\Debug\记住.pdb
+J:\SenCat_Project\CSharp\记住\记住\obj\Debug\记住.exe
+J:\SenCat_Project\CSharp\记住\记住\obj\Debug\记住.pdb
+J:\SenCat_Project\CSharp\记住\记住\bin\Debug\记住.exe
+J:\SenCat_Project\CSharp\记住\记住\bin\Debug\记住.pdb
+J:\SenCat_Project\CSharp\记住\记住\obj\Debug\ResolveAssemblyReference.cache
+J:\SenCat_Project\CSharp\记住\记住\obj\Debug\记住.Form1.resources
+J:\SenCat_Project\CSharp\记住\记住\obj\Debug\记住.Properties.Resources.resources
+J:\SenCat_Project\CSharp\记住\记住\obj\Debug\记住.csproj.GenerateResource.Cache

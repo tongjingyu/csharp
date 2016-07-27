@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTUService", "RTUService\RTUService.csproj", "{14A3F24E-F630-4F62-BBD7-DEE4C88E04CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14A3F24E-F630-4F62-BBD7-DEE4C88E04CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A3F24E-F630-4F62-BBD7-DEE4C88E04CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A3F24E-F630-4F62-BBD7-DEE4C88E04CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A3F24E-F630-4F62-BBD7-DEE4C88E04CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

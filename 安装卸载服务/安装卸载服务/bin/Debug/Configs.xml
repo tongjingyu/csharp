@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Configs>
+  <NodSqlConfig>
+    <Path>E:\TOM\RTU\RTUService\RTUService\bin\Debug\RTUService.exe</Path>
+    <Name>RTUService</Name>
+    <DisName>RTU</DisName>
+  </NodSqlConfig>
+  <NodServiceStr />
+  <NodUserConfig />
+</Configs>

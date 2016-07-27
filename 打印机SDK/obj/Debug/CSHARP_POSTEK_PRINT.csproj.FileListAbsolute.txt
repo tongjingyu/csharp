@@ -1,0 +1,10 @@
+C:\Users\lzb\Desktop\CDFPSK(beta)_V3.0.0.4150728\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.exe
+C:\Users\lzb\Desktop\CDFPSK(beta)_V3.0.0.4150728\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.pdb
+C:\Users\lzb\Desktop\CDFPSK(beta)_V3.0.0.4150728\Demo_32\C# TEST\bin\Debug\CSHARP_POSTEK_PRINT.exe
+C:\Users\lzb\Desktop\CDFPSK(beta)_V3.0.0.4150728\Demo_32\C# TEST\bin\Debug\CSHARP_POSTEK_PRINT.pdb
+C:\Users\lzb\Desktop\CDFPSK(beta)_V3.0.0.4150728\Demo_32\C# TEST\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lzb\Desktop\CDFPSK(beta)_V3.0.0.4150728\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.Form1.resources
+C:\Users\lzb\Desktop\CDFPSK(beta)_V3.0.0.4150728\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.Properties.Resources.resources
+C:\Users\lzb\Desktop\CDFPSK(beta)_V3.0.0.4150728\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.csproj.GenerateResource.Cache
+D:\TOM\DOC\CSharp\打印机SDK\obj\Debug\CSHARP_POSTEK_PRINT.exe
+D:\TOM\DOC\CSharp\打印机SDK\obj\Debug\CSHARP_POSTEK_PRINT.pdb

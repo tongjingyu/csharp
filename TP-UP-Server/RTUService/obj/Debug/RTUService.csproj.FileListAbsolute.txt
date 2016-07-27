@@ -1,0 +1,14 @@
+E:\KuaiPan\(三期)项目文件\RTUService\RTUService\bin\Debug\RTUService.exe
+E:\KuaiPan\(三期)项目文件\RTUService\RTUService\bin\Debug\RTUService.pdb
+E:\KuaiPan\(三期)项目文件\RTUService\RTUService\obj\Debug\ResolveAssemblyReference.cache
+E:\KuaiPan\(三期)项目文件\RTUService\RTUService\obj\Debug\RTUService.exe
+E:\KuaiPan\(三期)项目文件\RTUService\RTUService\obj\Debug\RTUService.pdb
+D:\KuaiPan\(三期)项目文件\RTUService\RTUService\obj\Debug\RTUService.exe
+D:\KuaiPan\(三期)项目文件\RTUService\RTUService\obj\Debug\RTUService.pdb
+E:\TOM\RTU\RTUService\RTUService\obj\Debug\RTUService.exe
+E:\TOM\RTU\RTUService\RTUService\obj\Debug\RTUService.pdb
+E:\TOM\RTU\RTUService\RTUService\bin\Debug\RTUService.exe
+E:\TOM\RTU\RTUService\RTUService\bin\Debug\RTUService.pdb
+E:\TOM\RTU\RTUService\RTUService\obj\Debug\ResolveAssemblyReference.cache
+D:\TOM\CSharp\TP-UP-Server\RTUService\obj\Debug\RTUService.exe
+D:\TOM\CSharp\TP-UP-Server\RTUService\obj\Debug\RTUService.pdb

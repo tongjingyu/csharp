@@ -1,0 +1,8 @@
+K:\Home_Project\CSharp\代码处理工具\Backup\CSharp代码处理工具\bin\Debug\CSharp代码处理工具.exe
+K:\Home_Project\CSharp\代码处理工具\Backup\CSharp代码处理工具\bin\Debug\CSharp代码处理工具.pdb
+K:\Home_Project\CSharp\代码处理工具\Backup\CSharp代码处理工具\obj\Debug\CSharp代码处理工具.csprojResolveAssemblyReference.cache
+K:\Home_Project\CSharp\代码处理工具\Backup\CSharp代码处理工具\obj\Debug\CSharp代码处理工具.Form1.resources
+K:\Home_Project\CSharp\代码处理工具\Backup\CSharp代码处理工具\obj\Debug\CSharp代码处理工具.Properties.Resources.resources
+K:\Home_Project\CSharp\代码处理工具\Backup\CSharp代码处理工具\obj\Debug\CSharp代码处理工具.csproj.GenerateResource.Cache
+K:\Home_Project\CSharp\代码处理工具\Backup\CSharp代码处理工具\obj\Debug\CSharp代码处理工具.exe
+K:\Home_Project\CSharp\代码处理工具\Backup\CSharp代码处理工具\obj\Debug\CSharp代码处理工具.pdb

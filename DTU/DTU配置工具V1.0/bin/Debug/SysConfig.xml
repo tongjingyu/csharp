@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--通讯端口配置-->
+  <CommPort>
+    <Portname>COM1</Portname>
+    <Baudrate>9600</Baudrate>
+    <Address>1</Address>
+  </CommPort>
+  <!--RealDeviceConfig-->
+  <DeviceParams>
+    <ProductDate>2012/10/10 12:01:12</ProductDate>
+    <DevNumber>1120040001</DevNumber>
+    <PasswordCode>1120040001</PasswordCode>
+    <CompName>yilinengshuiwen</CompName>
+    <StationName>qipaoceshi</StationName>
+  </DeviceParams>
+  <!--CommParams-->
+  <CommParams>
+    <WarningLevel>15000</WarningLevel>
+    <WarnInterval>30</WarnInterval>
+    <WarnEnable>0</WarnEnable>
+    <BaseLevel>6800</BaseLevel>
+    <IncreaseLevel>0</IncreaseLevel>
+    <InterTimeSet>24</InterTimeSet>
+  </CommParams>
+  <!--DTU配置 DTUConfig-->
+  <DTUParams>
+    <TelCount>5</TelCount>
+    <TelNum1>13687278394</TelNum1>
+    <TelNum2>15897564536</TelNum2>
+    <TelNum3>12345564455</TelNum3>
+    <TelNum4>12345564456</TelNum4>
+    <TelNum5>12345564456</TelNum5>
+    <IpAddr1>58.215.3.62</IpAddr1>
+    <IpAddr2>218.206.242.61</IpAddr2>
+    <IpAddr3>61.181.84.36</IpAddr3>
+    <IpAddr4>123.85.2.24</IpAddr4>
+    <IpAddr5>27.21.78.227</IpAddr5>
+    <IpPort1>5005</IpPort1>
+    <IpPort2>10808</IpPort2>
+    <IpPort3>10808</IpPort3>
+    <IpPort4>10808</IpPort4>
+    <IpPort5>9000</IpPort5>
+    <Authcode>123456</Authcode>
+  </DTUParams>
+</Config>

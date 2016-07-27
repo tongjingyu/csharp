@@ -1,0 +1,16 @@
+K:\Home_Project\CSharp\RS485通信\RS485通信\bin\Debug\Geek.exe.config
+D:\TOM\CSharp\RS485通信\RS485通信\bin\Debug\Geek.exe.config
+D:\TOM\CSharp\RS485通信\RS485通信\bin\Debug\Geek.exe
+D:\TOM\CSharp\RS485通信\RS485通信\bin\Debug\Geek.pdb
+D:\TOM\CSharp\RS485通信\RS485通信\obj\Debug\Geek.csprojResolveAssemblyReference.cache
+D:\TOM\CSharp\RS485通信\RS485通信\obj\Debug\Geek.Properties.Resources.resources
+D:\TOM\CSharp\RS485通信\RS485通信\obj\Debug\Geek.csproj.GenerateResource.Cache
+D:\TOM\CSharp\RS485通信\RS485通信\obj\Debug\Geek.exe
+D:\TOM\CSharp\RS485通信\RS485通信\obj\Debug\Geek.pdb
+D:\TOM\CSharp\RS485通信\RS485通信\obj\Debug\Geek.AT_HELP.resources
+D:\TOM\CSharp\RS485通信\RS485通信\obj\Debug\Geek.AT指令.resources
+D:\TOM\CSharp\RS485通信\RS485通信\obj\Debug\Geek.CC_Edit.resources
+D:\TOM\CSharp\RS485通信\RS485通信\obj\Debug\Geek.COM设置.resources
+D:\TOM\CSharp\RS485通信\RS485通信\obj\Debug\Geek.M26.resources
+D:\TOM\CSharp\RS485通信\RS485通信\obj\Debug\Geek.RS485.resources
+D:\TOM\CSharp\RS485通信\RS485通信\obj\Debug\Geek.手环测试.resources

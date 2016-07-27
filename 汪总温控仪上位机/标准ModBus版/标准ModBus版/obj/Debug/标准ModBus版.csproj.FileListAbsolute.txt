@@ -1,0 +1,8 @@
+J:\SenCat_Project\CSharp\汪总温控仪上位机\标准ModBus版\标准ModBus版\obj\Debug\ResolveAssemblyReference.cache
+J:\SenCat_Project\CSharp\汪总温控仪上位机\标准ModBus版\标准ModBus版\obj\Debug\标准ModBus版.Form1.resources
+J:\SenCat_Project\CSharp\汪总温控仪上位机\标准ModBus版\标准ModBus版\obj\Debug\标准ModBus版.Properties.Resources.resources
+J:\SenCat_Project\CSharp\汪总温控仪上位机\标准ModBus版\标准ModBus版\obj\Debug\标准ModBus版.csproj.GenerateResource.Cache
+J:\SenCat_Project\CSharp\汪总温控仪上位机\标准ModBus版\标准ModBus版\bin\Debug\标准ModBus版.exe
+J:\SenCat_Project\CSharp\汪总温控仪上位机\标准ModBus版\标准ModBus版\bin\Debug\标准ModBus版.pdb
+J:\SenCat_Project\CSharp\汪总温控仪上位机\标准ModBus版\标准ModBus版\obj\Debug\标准ModBus版.exe
+J:\SenCat_Project\CSharp\汪总温控仪上位机\标准ModBus版\标准ModBus版\obj\Debug\标准ModBus版.pdb

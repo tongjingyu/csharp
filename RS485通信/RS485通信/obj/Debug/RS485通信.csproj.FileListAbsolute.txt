@@ -1,0 +1,10 @@
+K:\Home_Project\CSharp\RS485通信\RS485通信\bin\Debug\RS485通信.exe.config
+K:\Home_Project\CSharp\RS485通信\RS485通信\bin\Debug\RS485通信.exe
+K:\Home_Project\CSharp\RS485通信\RS485通信\bin\Debug\RS485通信.pdb
+K:\Home_Project\CSharp\RS485通信\RS485通信\obj\Debug\RS485通信.csprojResolveAssemblyReference.cache
+K:\Home_Project\CSharp\RS485通信\RS485通信\obj\Debug\RS485通信.Properties.Resources.resources
+K:\Home_Project\CSharp\RS485通信\RS485通信\obj\Debug\RS485通信.csproj.GenerateResource.Cache
+K:\Home_Project\CSharp\RS485通信\RS485通信\obj\Debug\RS485通信.exe
+K:\Home_Project\CSharp\RS485通信\RS485通信\obj\Debug\RS485通信.pdb
+K:\Home_Project\CSharp\RS485通信\RS485通信\obj\Debug\RS485通信.RS485.resources
+K:\Home_Project\CSharp\RS485通信\RS485通信\obj\Debug\RS485通信.COM设置.resources

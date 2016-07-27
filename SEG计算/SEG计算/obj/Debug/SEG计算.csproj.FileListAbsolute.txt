@@ -1,0 +1,9 @@
+K:\Home_Project\CSharp\SEG计算\SEG计算\bin\Debug\SEG计算.exe.config
+K:\Home_Project\CSharp\SEG计算\SEG计算\bin\Debug\SEG计算.exe
+K:\Home_Project\CSharp\SEG计算\SEG计算\bin\Debug\SEG计算.pdb
+K:\Home_Project\CSharp\SEG计算\SEG计算\obj\Debug\SEG计算.csprojResolveAssemblyReference.cache
+K:\Home_Project\CSharp\SEG计算\SEG计算\obj\Debug\SEG计算.Form1.resources
+K:\Home_Project\CSharp\SEG计算\SEG计算\obj\Debug\SEG计算.Properties.Resources.resources
+K:\Home_Project\CSharp\SEG计算\SEG计算\obj\Debug\SEG计算.csproj.GenerateResource.Cache
+K:\Home_Project\CSharp\SEG计算\SEG计算\obj\Debug\SEG计算.exe
+K:\Home_Project\CSharp\SEG计算\SEG计算\obj\Debug\SEG计算.pdb

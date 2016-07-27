@@ -1,0 +1,12 @@
+D:\TOM\CSharp\TP-UP-Server\Console\bin\Debug\Console.exe.config
+D:\TOM\CSharp\TP-UP-Server\Console\bin\Debug\Console.exe
+D:\TOM\CSharp\TP-UP-Server\Console\bin\Debug\Console.pdb
+D:\TOM\CSharp\TP-UP-Server\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+D:\TOM\CSharp\TP-UP-Server\Console\obj\Debug\Console.exe
+D:\TOM\CSharp\TP-UP-Server\Console\obj\Debug\Console.pdb
+D:\TOM\DOC\CSharp\TP-UP-Server\Console\bin\Debug\Console.exe.config
+D:\TOM\DOC\CSharp\TP-UP-Server\Console\obj\Debug\Console.exe
+D:\TOM\DOC\CSharp\TP-UP-Server\Console\obj\Debug\Console.pdb
+D:\TOM\DOC\CSharp\TP-UP-Server\Console\bin\Debug\Console.exe
+D:\TOM\DOC\CSharp\TP-UP-Server\Console\bin\Debug\Console.pdb
+D:\TOM\DOC\CSharp\TP-UP-Server\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache

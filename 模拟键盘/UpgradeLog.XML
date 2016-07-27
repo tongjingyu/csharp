@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="模拟键盘">
+</Property><Property Name="解决方案文件" Value="J:\SenCat_Project\CSharp\模拟键盘\模拟键盘.sln">
+</Property><Property Name="用户选项文件" Value="J:\SenCat_Project\CSharp\模拟键盘\模拟键盘.suo">
+</Property><Property Name="Date" Value="2014年11月25日">
+</Property><Property Name="Time" Value="13:26">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="模拟键盘.sln" Description="文件已成功备份为 J:\SenCat_Project\CSharp\模拟键盘\Backup\模拟键盘.sln">
+</Event><Event ErrorLevel="0" Project="" Source="模拟键盘.suo" Description="文件已成功备份为 J:\SenCat_Project\CSharp\模拟键盘\Backup\模拟键盘.suo">
+</Event><Event ErrorLevel="0" Project="模拟键盘" Source="模拟键盘.csproj" Description="项目文件已成功备份为 J:\SenCat_Project\CSharp\模拟键盘\Backup\模拟键盘.csproj">
+</Event><Event ErrorLevel="0" Project="模拟键盘" Source="KeyBoard.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\模拟键盘\Backup\KeyBoard.cs">
+</Event><Event ErrorLevel="0" Project="模拟键盘" Source="Form1.Designer.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\模拟键盘\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="模拟键盘" Source="Program.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\模拟键盘\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="模拟键盘" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\模拟键盘\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="模拟键盘" Source="Properties\Resources.Designer.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\模拟键盘\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="模拟键盘" Source="Properties\Settings.Designer.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\模拟键盘\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="模拟键盘" Source="User\KeyLogger.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\模拟键盘\Backup\User\KeyLogger.cs">
+</Event><Event ErrorLevel="0" Project="模拟键盘" Source="User\ModBus.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\模拟键盘\Backup\User\ModBus.cs">
+</Event><Event ErrorLevel="0" Project="模拟键盘" Source="User\Tools.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\模拟键盘\Backup\User\Tools.cs">
+</Event><Event ErrorLevel="0" Project="模拟键盘" Source="User\Usart.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\模拟键盘\Backup\User\Usart.cs">
+</Event><Event ErrorLevel="0" Project="模拟键盘" Source="User\Value.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\模拟键盘\Backup\User\Value.cs">
+</Event><Event ErrorLevel="0" Project="模拟键盘" Source="Properties\Settings.settings" Description="文件已成功备份为 J:\SenCat_Project\CSharp\模拟键盘\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="模拟键盘" Source="User\keyboardhook.dll" Description="文件已成功备份为 J:\SenCat_Project\CSharp\模拟键盘\Backup\User\keyboardhook.dll">
+</Event><Event ErrorLevel="0" Project="模拟键盘" Source="KeyBoard.resx" Description="文件已成功备份为 J:\SenCat_Project\CSharp\模拟键盘\Backup\KeyBoard.resx">
+</Event><Event ErrorLevel="0" Project="模拟键盘" Source="Properties\Resources.resx" Description="文件已成功备份为 J:\SenCat_Project\CSharp\模拟键盘\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="模拟键盘" Source="模拟键盘.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="模拟键盘" Source="模拟键盘.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="模拟键盘.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="模拟键盘.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="模拟键盘" Source="模拟键盘.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="串口显示屏">
+</Property><Property Name="解决方案文件" Value="J:\SenCat_Project\CSharp\串口显示屏\串口显示屏.sln">
+</Property><Property Name="用户选项文件" Value="J:\SenCat_Project\CSharp\串口显示屏\串口显示屏.suo">
+</Property><Property Name="Date" Value="2014年11月26日">
+</Property><Property Name="Time" Value="22:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="串口显示屏.sln" Description="文件已成功备份为 J:\SenCat_Project\CSharp\串口显示屏\Backup\串口显示屏.sln">
+</Event><Event ErrorLevel="0" Project="" Source="串口显示屏.suo" Description="文件已成功备份为 J:\SenCat_Project\CSharp\串口显示屏\Backup\串口显示屏.suo">
+</Event><Event ErrorLevel="0" Project="串口显示屏" Source="串口显示屏\串口显示屏.csproj" Description="项目文件已成功备份为 J:\SenCat_Project\CSharp\串口显示屏\Backup\串口显示屏\串口显示屏.csproj">
+</Event><Event ErrorLevel="0" Project="串口显示屏" Source="串口显示屏\File\ModBus.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\串口显示屏\Backup\串口显示屏\File\ModBus.cs">
+</Event><Event ErrorLevel="0" Project="串口显示屏" Source="串口显示屏\File\Tools.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\串口显示屏\Backup\串口显示屏\File\Tools.cs">
+</Event><Event ErrorLevel="0" Project="串口显示屏" Source="串口显示屏\File\串口.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\串口显示屏\Backup\串口显示屏\File\串口.cs">
+</Event><Event ErrorLevel="0" Project="串口显示屏" Source="串口显示屏\Form1.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\串口显示屏\Backup\串口显示屏\Form1.cs">
+</Event><Event ErrorLevel="0" Project="串口显示屏" Source="串口显示屏\Form1.Designer.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\串口显示屏\Backup\串口显示屏\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="串口显示屏" Source="串口显示屏\Program.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\串口显示屏\Backup\串口显示屏\Program.cs">
+</Event><Event ErrorLevel="0" Project="串口显示屏" Source="串口显示屏\Properties\AssemblyInfo.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\串口显示屏\Backup\串口显示屏\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="串口显示屏" Source="串口显示屏\Properties\Resources.Designer.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\串口显示屏\Backup\串口显示屏\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="串口显示屏" Source="串口显示屏\Properties\Settings.Designer.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\串口显示屏\Backup\串口显示屏\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="串口显示屏" Source="串口显示屏\Properties\Settings.settings" Description="文件已成功备份为 J:\SenCat_Project\CSharp\串口显示屏\Backup\串口显示屏\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="串口显示屏" Source="串口显示屏\Resources\QQ图片20140605141726.png" Description="文件已成功备份为 J:\SenCat_Project\CSharp\串口显示屏\Backup\串口显示屏\Resources\QQ图片20140605141726.png">
+</Event><Event ErrorLevel="0" Project="串口显示屏" Source="串口显示屏\Resources\QQ图片20140605141842.png" Description="文件已成功备份为 J:\SenCat_Project\CSharp\串口显示屏\Backup\串口显示屏\Resources\QQ图片20140605141842.png">
+</Event><Event ErrorLevel="0" Project="串口显示屏" Source="串口显示屏\Resources\QQ图片20140605142322.png" Description="文件已成功备份为 J:\SenCat_Project\CSharp\串口显示屏\Backup\串口显示屏\Resources\QQ图片20140605142322.png">
+</Event><Event ErrorLevel="0" Project="串口显示屏" Source="串口显示屏\Form1.resx" Description="文件已成功备份为 J:\SenCat_Project\CSharp\串口显示屏\Backup\串口显示屏\Form1.resx">
+</Event><Event ErrorLevel="0" Project="串口显示屏" Source="串口显示屏\Properties\Resources.resx" Description="文件已成功备份为 J:\SenCat_Project\CSharp\串口显示屏\Backup\串口显示屏\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="串口显示屏" Source="串口显示屏\串口显示屏.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="串口显示屏" Source="串口显示屏\串口显示屏.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="串口显示屏.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="串口显示屏.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="串口显示屏" Source="串口显示屏\串口显示屏.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

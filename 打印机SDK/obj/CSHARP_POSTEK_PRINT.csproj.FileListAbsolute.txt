@@ -1,0 +1,48 @@
+I:\动态链接库\POSTEK_DLL\windll\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.exe
+I:\动态链接库\POSTEK_DLL\windll\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.pdb
+I:\动态链接库\POSTEK_DLL\windll\C# TEST\bin\Debug\CSHARP_POSTEK_PRINT.exe
+I:\动态链接库\POSTEK_DLL\windll\C# TEST\bin\Debug\CSHARP_POSTEK_PRINT.pdb
+I:\动态链接库\POSTEK_DLL\windll\C# TEST\obj\Debug\ResolveAssemblyReference.cache
+I:\动态链接库\POSTEK_DLL\windll\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.Form1.resources
+I:\动态链接库\POSTEK_DLL\windll\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.Properties.Resources.resources
+I:\动态链接库\POSTEK_DLL\windll\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.csproj.GenerateResource.Cache
+C:\Users\hechao\Desktop\POSTEK_DLL\WINPSK\C# TEST\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hechao\Desktop\POSTEK_DLL\WINPSK\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.Form1.resources
+C:\Users\hechao\Desktop\POSTEK_DLL\WINPSK\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.Properties.Resources.resources
+C:\Users\hechao\Desktop\POSTEK_DLL\WINPSK\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.csproj.GenerateResource.Cache
+C:\Users\hechao\Desktop\POSTEK_DLL\WINPSK\C# TEST\bin\Debug\CSHARP_POSTEK_PRINT.exe
+C:\Users\hechao\Desktop\POSTEK_DLL\WINPSK\C# TEST\bin\Debug\CSHARP_POSTEK_PRINT.pdb
+C:\Users\hechao\Desktop\POSTEK_DLL\WINPSK\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.exe
+C:\Users\hechao\Desktop\POSTEK_DLL\WINPSK\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.pdb
+C:\Users\hechao\Desktop\CDFPSK  V2.19\POSTEK_DLL_20131012\WINPSK\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.exe
+C:\Users\hechao\Desktop\CDFPSK  V2.19\POSTEK_DLL_20131012\WINPSK\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.pdb
+C:\Users\hechao\Desktop\CDFPSK  V2.19\POSTEK_DLL_20131012\WINPSK\C# TEST\bin\Debug\CSHARP_POSTEK_PRINT.exe
+C:\Users\hechao\Desktop\CDFPSK  V2.19\POSTEK_DLL_20131012\WINPSK\C# TEST\bin\Debug\CSHARP_POSTEK_PRINT.pdb
+C:\Users\hechao\Desktop\CDFPSK  V2.19\POSTEK_DLL_20131012\WINPSK\C# TEST\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hechao\Desktop\CDFPSK  V2.19\POSTEK_DLL_20131012\WINPSK\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.Form1.resources
+C:\Users\hechao\Desktop\CDFPSK  V2.19\POSTEK_DLL_20131012\WINPSK\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.Properties.Resources.resources
+C:\Users\hechao\Desktop\CDFPSK  V2.19\POSTEK_DLL_20131012\WINPSK\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.csproj.GenerateResource.Cache
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\提交版本\PostekLibary_beta_20150708\WINPSK(beta)_V10.0.0.3150126\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.exe
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\提交版本\PostekLibary_beta_20150708\WINPSK(beta)_V10.0.0.3150126\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.pdb
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\提交版本\PostekLibary_beta_20150708\WINPSK(beta)_V10.0.0.3150126\Demo_32\C# TEST\bin\Debug\CSHARP_POSTEK_PRINT.exe
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\提交版本\PostekLibary_beta_20150708\WINPSK(beta)_V10.0.0.3150126\Demo_32\C# TEST\bin\Debug\CSHARP_POSTEK_PRINT.pdb
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\提交版本\PostekLibary_beta_20150708\WINPSK(beta)_V10.0.0.3150126\Demo_32\C# TEST\obj\Debug\ResolveAssemblyReference.cache
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\提交版本\PostekLibary_beta_20150708\WINPSK(beta)_V10.0.0.3150126\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.Form1.resources
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\提交版本\PostekLibary_beta_20150708\WINPSK(beta)_V10.0.0.3150126\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.Properties.Resources.resources
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\提交版本\PostekLibary_beta_20150708\WINPSK(beta)_V10.0.0.3150126\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.csproj.GenerateResource.Cache
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\提交版本\PostekLibary_beta_20150708\CDFPSK(beta)_V3.0.0.3150608\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.exe
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\提交版本\PostekLibary_beta_20150708\CDFPSK(beta)_V3.0.0.3150608\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.pdb
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\提交版本\PostekLibary_beta_20150708\CDFPSK(beta)_V3.0.0.3150608\Demo_32\C# TEST\obj\Debug\ResolveAssemblyReference.cache
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\提交版本\PostekLibary_beta_20150708\CDFPSK(beta)_V3.0.0.3150608\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.Form1.resources
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\提交版本\PostekLibary_beta_20150708\CDFPSK(beta)_V3.0.0.3150608\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.Properties.Resources.resources
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\提交版本\PostekLibary_beta_20150708\CDFPSK(beta)_V3.0.0.3150608\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.csproj.GenerateResource.Cache
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\提交版本\PostekLibary_beta_20150708\CDFPSK(beta)_V3.0.0.3150608\Demo_32\C# TEST\bin\Debug\CSHARP_POSTEK_PRINT.exe
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\提交版本\PostekLibary_beta_20150708\CDFPSK(beta)_V3.0.0.3150608\Demo_32\C# TEST\bin\Debug\CSHARP_POSTEK_PRINT.pdb
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\动态库beta版本_20150827\PostekLibary_beta_20150827\上传网站\POSTEK_DLL\CDFPSK(beta)_V3.0.0.4150728\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.exe
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\动态库beta版本_20150827\PostekLibary_beta_20150827\上传网站\POSTEK_DLL\CDFPSK(beta)_V3.0.0.4150728\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.pdb
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\动态库beta版本_20150827\PostekLibary_beta_20150827\上传网站\POSTEK_DLL\CDFPSK(beta)_V3.0.0.4150728\Demo_32\C# TEST\bin\Debug\CSHARP_POSTEK_PRINT.exe
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\动态库beta版本_20150827\PostekLibary_beta_20150827\上传网站\POSTEK_DLL\CDFPSK(beta)_V3.0.0.4150728\Demo_32\C# TEST\bin\Debug\CSHARP_POSTEK_PRINT.pdb
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\动态库beta版本_20150827\PostekLibary_beta_20150827\上传网站\POSTEK_DLL\CDFPSK(beta)_V3.0.0.4150728\Demo_32\C# TEST\obj\Debug\ResolveAssemblyReference.cache
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\动态库beta版本_20150827\PostekLibary_beta_20150827\上传网站\POSTEK_DLL\CDFPSK(beta)_V3.0.0.4150728\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.Form1.resources
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\动态库beta版本_20150827\PostekLibary_beta_20150827\上传网站\POSTEK_DLL\CDFPSK(beta)_V3.0.0.4150728\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.Properties.Resources.resources
+E:\1-代码维护\2-DLL代码维护\1-正式版_DLL_20141224\New_DLL\Windows\动态库beta版本_20150827\PostekLibary_beta_20150827\上传网站\POSTEK_DLL\CDFPSK(beta)_V3.0.0.4150728\Demo_32\C# TEST\obj\Debug\CSHARP_POSTEK_PRINT.csproj.GenerateResource.Cache

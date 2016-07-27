@@ -1,0 +1,9 @@
+K:\Home_Project\CSharp\查域名\查域名\bin\Debug\查域名.exe.config
+K:\Home_Project\CSharp\查域名\查域名\bin\Debug\查域名.exe
+K:\Home_Project\CSharp\查域名\查域名\bin\Debug\查域名.pdb
+K:\Home_Project\CSharp\查域名\查域名\obj\Debug\查域名.csprojResolveAssemblyReference.cache
+K:\Home_Project\CSharp\查域名\查域名\obj\Debug\查域名.Form1.resources
+K:\Home_Project\CSharp\查域名\查域名\obj\Debug\查域名.Properties.Resources.resources
+K:\Home_Project\CSharp\查域名\查域名\obj\Debug\查域名.csproj.GenerateResource.Cache
+K:\Home_Project\CSharp\查域名\查域名\obj\Debug\查域名.exe
+K:\Home_Project\CSharp\查域名\查域名\obj\Debug\查域名.pdb

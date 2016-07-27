@@ -1,0 +1,9 @@
+D:\TOM\CSharp\同步时间\同步时间\bin\Debug\同步时间.exe.config
+D:\TOM\CSharp\同步时间\同步时间\obj\Debug\同步时间.csprojResolveAssemblyReference.cache
+D:\TOM\CSharp\同步时间\同步时间\obj\Debug\同步时间.Form1.resources
+D:\TOM\CSharp\同步时间\同步时间\obj\Debug\同步时间.Properties.Resources.resources
+D:\TOM\CSharp\同步时间\同步时间\obj\Debug\同步时间.csproj.GenerateResource.Cache
+D:\TOM\CSharp\同步时间\同步时间\bin\Debug\同步时间.exe
+D:\TOM\CSharp\同步时间\同步时间\bin\Debug\同步时间.pdb
+D:\TOM\CSharp\同步时间\同步时间\obj\Debug\同步时间.exe
+D:\TOM\CSharp\同步时间\同步时间\obj\Debug\同步时间.pdb

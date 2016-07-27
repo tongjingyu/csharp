@@ -1,0 +1,6 @@
+K:\Home_Project\CSharp\串口服务\串口服务-服务\串口服务-服务\bin\Debug\串口服务-服务.exe.config
+K:\Home_Project\CSharp\串口服务\串口服务-服务\串口服务-服务\bin\Debug\串口服务-服务.exe
+K:\Home_Project\CSharp\串口服务\串口服务-服务\串口服务-服务\bin\Debug\串口服务-服务.pdb
+K:\Home_Project\CSharp\串口服务\串口服务-服务\串口服务-服务\obj\Debug\串口服务-服务.csprojResolveAssemblyReference.cache
+K:\Home_Project\CSharp\串口服务\串口服务-服务\串口服务-服务\obj\Debug\串口服务-服务.exe
+K:\Home_Project\CSharp\串口服务\串口服务-服务\串口服务-服务\obj\Debug\串口服务-服务.pdb

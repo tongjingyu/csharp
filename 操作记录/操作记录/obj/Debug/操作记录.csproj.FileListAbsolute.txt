@@ -1,0 +1,10 @@
+F:\My Project\CSharp\操作记录\操作记录\bin\Debug\操作记录.exe.config
+F:\My Project\CSharp\操作记录\操作记录\bin\Debug\操作记录.exe
+F:\My Project\CSharp\操作记录\操作记录\bin\Debug\操作记录.pdb
+F:\My Project\CSharp\操作记录\操作记录\obj\Debug\操作记录.csprojResolveAssemblyReference.cache
+F:\My Project\CSharp\操作记录\操作记录\obj\Debug\操作记录.exe
+F:\My Project\CSharp\操作记录\操作记录\obj\Debug\操作记录.pdb
+K:\Home_Project\CSharp\操作记录\操作记录\bin\Debug\操作记录.exe.config
+K:\Home_Project\CSharp\操作记录\操作记录\obj\Debug\操作记录.exe
+K:\Home_Project\CSharp\操作记录\操作记录\obj\Debug\操作记录.pdb
+K:\Home_Project\CSharp\操作记录\操作记录\obj\Debug\操作记录.csprojResolveAssemblyReference.cache

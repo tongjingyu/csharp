@@ -1,0 +1,33 @@
+F:\My Project\CSharp\串口显示屏\串口显示屏\bin\Debug\串口显示屏.exe
+F:\My Project\CSharp\串口显示屏\串口显示屏\bin\Debug\串口显示屏.pdb
+F:\My Project\CSharp\串口显示屏\串口显示屏\obj\Debug\ResolveAssemblyReference.cache
+F:\My Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.Form1.resources
+F:\My Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.Properties.Resources.resources
+F:\My Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.csproj.GenerateResource.Cache
+F:\My Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.exe
+F:\My Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.pdb
+J:\SenCat_Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.exe
+J:\SenCat_Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.pdb
+I:\SenCat_Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.exe
+I:\SenCat_Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.pdb
+I:\SenCat_Project\CSharp\串口显示屏\串口显示屏\bin\Debug\串口显示屏.exe
+I:\SenCat_Project\CSharp\串口显示屏\串口显示屏\bin\Debug\串口显示屏.pdb
+I:\SenCat_Project\CSharp\串口显示屏\串口显示屏\obj\Debug\ResolveAssemblyReference.cache
+I:\SenCat_Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.Form1.resources
+I:\SenCat_Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.Properties.Resources.resources
+I:\SenCat_Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.csproj.GenerateResource.Cache
+J:\SenCat_Project\CSharp\串口显示屏\串口显示屏\bin\Debug\串口显示屏.exe
+J:\SenCat_Project\CSharp\串口显示屏\串口显示屏\bin\Debug\串口显示屏.pdb
+J:\SenCat_Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.Form1.resources
+J:\SenCat_Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.Properties.Resources.resources
+J:\SenCat_Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.csproj.GenerateResource.Cache
+J:\Home_Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.exe
+J:\Home_Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.pdb
+J:\Home_Project\CSharp\串口显示屏\串口显示屏\bin\Debug\串口显示屏.exe
+J:\Home_Project\CSharp\串口显示屏\串口显示屏\bin\Debug\串口显示屏.pdb
+J:\Home_Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.csprojResolveAssemblyReference.cache
+J:\Home_Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.Form1.resources
+J:\Home_Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.Properties.Resources.resources
+J:\Home_Project\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.csproj.GenerateResource.Cache
+D:\TOM\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.exe
+D:\TOM\CSharp\串口显示屏\串口显示屏\obj\Debug\串口显示屏.pdb

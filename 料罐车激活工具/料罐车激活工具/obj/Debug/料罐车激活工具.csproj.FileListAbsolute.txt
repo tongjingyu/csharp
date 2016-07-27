@@ -1,0 +1,9 @@
+K:\Home_Project\CSharp\料罐车激活工具\料罐车激活工具\bin\Debug\料罐车激活工具.exe.config
+K:\Home_Project\CSharp\料罐车激活工具\料罐车激活工具\bin\Debug\料罐车激活工具.exe
+K:\Home_Project\CSharp\料罐车激活工具\料罐车激活工具\bin\Debug\料罐车激活工具.pdb
+K:\Home_Project\CSharp\料罐车激活工具\料罐车激活工具\obj\Debug\料罐车激活工具.csprojResolveAssemblyReference.cache
+K:\Home_Project\CSharp\料罐车激活工具\料罐车激活工具\obj\Debug\料罐车激活工具.Properties.Resources.resources
+K:\Home_Project\CSharp\料罐车激活工具\料罐车激活工具\obj\Debug\料罐车激活工具.csproj.GenerateResource.Cache
+K:\Home_Project\CSharp\料罐车激活工具\料罐车激活工具\obj\Debug\料罐车激活工具.exe
+K:\Home_Project\CSharp\料罐车激活工具\料罐车激活工具\obj\Debug\料罐车激活工具.pdb
+K:\Home_Project\CSharp\料罐车激活工具\料罐车激活工具\obj\Debug\料罐车激活工具.Form1.resources

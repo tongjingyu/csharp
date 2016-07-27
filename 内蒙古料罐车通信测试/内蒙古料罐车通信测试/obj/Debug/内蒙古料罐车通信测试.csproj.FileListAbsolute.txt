@@ -1,0 +1,9 @@
+K:\Home_Project\CSharp\内蒙古料罐车通信测试\内蒙古料罐车通信测试\bin\Debug\内蒙古料罐车通信测试.exe.config
+K:\Home_Project\CSharp\内蒙古料罐车通信测试\内蒙古料罐车通信测试\obj\Debug\内蒙古料罐车通信测试.csprojResolveAssemblyReference.cache
+K:\Home_Project\CSharp\内蒙古料罐车通信测试\内蒙古料罐车通信测试\obj\Debug\内蒙古料罐车通信测试.Form1.resources
+K:\Home_Project\CSharp\内蒙古料罐车通信测试\内蒙古料罐车通信测试\obj\Debug\内蒙古料罐车通信测试.Properties.Resources.resources
+K:\Home_Project\CSharp\内蒙古料罐车通信测试\内蒙古料罐车通信测试\obj\Debug\内蒙古料罐车通信测试.csproj.GenerateResource.Cache
+K:\Home_Project\CSharp\内蒙古料罐车通信测试\内蒙古料罐车通信测试\bin\Debug\内蒙古料罐车通信测试.exe
+K:\Home_Project\CSharp\内蒙古料罐车通信测试\内蒙古料罐车通信测试\bin\Debug\内蒙古料罐车通信测试.pdb
+K:\Home_Project\CSharp\内蒙古料罐车通信测试\内蒙古料罐车通信测试\obj\Debug\内蒙古料罐车通信测试.exe
+K:\Home_Project\CSharp\内蒙古料罐车通信测试\内蒙古料罐车通信测试\obj\Debug\内蒙古料罐车通信测试.pdb

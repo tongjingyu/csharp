@@ -1,0 +1,6 @@
+D:\TOM\CSharp\TP-UP-Server\Server\bin\Debug\Server.exe.config
+D:\TOM\CSharp\TP-UP-Server\Server\bin\Debug\Server.exe
+D:\TOM\CSharp\TP-UP-Server\Server\bin\Debug\Server.pdb
+D:\TOM\CSharp\TP-UP-Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\TOM\CSharp\TP-UP-Server\Server\obj\Debug\Server.exe
+D:\TOM\CSharp\TP-UP-Server\Server\obj\Debug\Server.pdb

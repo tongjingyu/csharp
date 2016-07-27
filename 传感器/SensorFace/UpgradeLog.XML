@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SensorFace">
+</Property><Property Name="解决方案文件" Value="J:\SenCat_Project\CSharp\传感器\SensorFace\SensorFace.sln">
+</Property><Property Name="用户选项文件" Value="J:\SenCat_Project\CSharp\传感器\SensorFace\SensorFace.suo">
+</Property><Property Name="Date" Value="2014年11月25日">
+</Property><Property Name="Time" Value="17:01">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SensorFace.sln" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SensorFace.suo" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace.suo">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\SensorFace.csproj" Description="项目文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\SensorFace.csproj">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\SensorFace.csproj.user" Description="项目用户文件成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\SensorFace.csproj.user">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\File\ModBus.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\File\ModBus.cs">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\File\Tools.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\File\Tools.cs">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\File\Usart.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\File\Usart.cs">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\File\Value.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\File\Value.cs">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Sensor.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Sensor.cs">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Sensor.Designer.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Sensor.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Program.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Program.cs">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Properties\AssemblyInfo.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Properties\Resources.Designer.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Properties\Settings.Designer.cs" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Properties\Settings.settings" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Resources\QQ图片20140605141726.png" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Resources\QQ图片20140605141726.png">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Resources\QQ图片20140605141842.png" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Resources\QQ图片20140605141842.png">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Resources\QQ图片20140605142322.png" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Resources\QQ图片20140605142322.png">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Resources\trad_dot.png" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Resources\trad_dot.png">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Resources\trad_m.png" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Resources\trad_m.png">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Resources\trad_s.png" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Resources\trad_s.png">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Resources\system.png" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Resources\system.png">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Resources\system_highlights.png" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Resources\system_highlights.png">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Resources\system_dot.png" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Resources\system_dot.png">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Resources\system_h.png" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Resources\system_h.png">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Resources\system_m.png" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Resources\system_m.png">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Resources\system_s.png" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Resources\system_s.png">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Resources\trad_highlights.png" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Resources\trad_highlights.png">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\sc.ico" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\sc.ico">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\SC_Wifi.ico" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\SC_Wifi.ico">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Properties\Resources.resx" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\Sensor.resx" Description="文件已成功备份为 J:\SenCat_Project\CSharp\传感器\SensorFace\Backup\SensorFace\Sensor.resx">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\SensorFace.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="SensorFace" Source="SensorFace\SensorFace.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SensorFace.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="SensorFace.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SensorFace" Source="SensorFace\SensorFace.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

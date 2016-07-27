@@ -1,0 +1,56 @@
+C:\Users\CAT\Desktop\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.exe
+C:\Users\CAT\Desktop\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.pdb
+C:\Users\CAT\Desktop\透明时钟演示\透明时钟演示\bin\Debug\透明时钟演示.exe
+C:\Users\CAT\Desktop\透明时钟演示\透明时钟演示\bin\Debug\透明时钟演示.pdb
+C:\Users\CAT\Desktop\透明时钟演示\透明时钟演示\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CAT\Desktop\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.Form1.resources
+C:\Users\CAT\Desktop\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.Properties.Resources.resources
+C:\Users\CAT\Desktop\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.csproj.GenerateResource.Cache
+D:\KuaiPan\(一期)项目文件\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.exe
+D:\KuaiPan\(一期)项目文件\透明时钟演示\透明时钟演示\obj\Debug\ResolveAssemblyReference.cache
+D:\KuaiPan\(一期)项目文件\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.Form1.resources
+D:\KuaiPan\(一期)项目文件\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.Properties.Resources.resources
+D:\KuaiPan\(一期)项目文件\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.csproj.GenerateResource.Cache
+D:\KuaiPan\(一期)项目文件\透明时钟演示\透明时钟演示\bin\Debug\透明时钟演示.exe
+D:\KuaiPan\(一期)项目文件\透明时钟演示\透明时钟演示\bin\Debug\透明时钟演示.pdb
+D:\KuaiPan\(一期)项目文件\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.pdb
+D:\BaiduYunDownload\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.exe
+D:\BaiduYunDownload\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.pdb
+D:\BaiduYunDownload\透明时钟演示\透明时钟演示\obj\Debug\ResolveAssemblyReference.cache
+D:\BaiduYunDownload\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.Form1.resources
+D:\BaiduYunDownload\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.Properties.Resources.resources
+D:\BaiduYunDownload\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.csproj.GenerateResource.Cache
+D:\BaiduYunDownload\透明时钟演示\透明时钟演示\bin\Debug\透明时钟演示.exe
+D:\BaiduYunDownload\透明时钟演示\透明时钟演示\bin\Debug\透明时钟演示.pdb
+C:\Users\TOM\Desktop\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.exe
+C:\Users\TOM\Desktop\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.pdb
+C:\Users\TOM\Desktop\透明时钟演示\透明时钟演示\bin\Debug\透明时钟演示.exe
+C:\Users\TOM\Desktop\透明时钟演示\透明时钟演示\bin\Debug\透明时钟演示.pdb
+C:\Users\TOM\Desktop\透明时钟演示\透明时钟演示\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TOM\Desktop\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.Form1.resources
+C:\Users\TOM\Desktop\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.Properties.Resources.resources
+C:\Users\TOM\Desktop\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.csproj.GenerateResource.Cache
+F:\My Project\CSharp\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.exe
+F:\My Project\CSharp\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.pdb
+F:\My Project\CSharp\透明时钟演示\透明时钟演示\bin\Debug\透明时钟演示.exe
+F:\My Project\CSharp\透明时钟演示\透明时钟演示\bin\Debug\透明时钟演示.pdb
+F:\My Project\CSharp\透明时钟演示\透明时钟演示\obj\Debug\ResolveAssemblyReference.cache
+F:\My Project\CSharp\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.Form1.resources
+F:\My Project\CSharp\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.Properties.Resources.resources
+F:\My Project\CSharp\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.csproj.GenerateResource.Cache
+J:\SenCat_Project\CSharp\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.exe
+J:\SenCat_Project\CSharp\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.pdb
+J:\SenCat_Project\CSharp\透明时钟演示\透明时钟演示\bin\Debug\透明时钟演示.exe
+J:\SenCat_Project\CSharp\透明时钟演示\透明时钟演示\bin\Debug\透明时钟演示.pdb
+J:\SenCat_Project\CSharp\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.Form1.resources
+J:\SenCat_Project\CSharp\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.Properties.Resources.resources
+J:\SenCat_Project\CSharp\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.csproj.GenerateResource.Cache
+J:\SenCat_Project\CSharp\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.csprojResolveAssemblyReference.cache
+D:\TOM\DOC\CSharp\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.exe
+D:\TOM\DOC\CSharp\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.pdb
+D:\TOM\DOC\CSharp\透明时钟演示\透明时钟演示\bin\Debug\透明时钟演示.exe
+D:\TOM\DOC\CSharp\透明时钟演示\透明时钟演示\bin\Debug\透明时钟演示.pdb
+D:\TOM\DOC\CSharp\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.csprojResolveAssemblyReference.cache
+D:\TOM\DOC\CSharp\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.Form1.resources
+D:\TOM\DOC\CSharp\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.Properties.Resources.resources
+D:\TOM\DOC\CSharp\透明时钟演示\透明时钟演示\obj\Debug\透明时钟演示.csproj.GenerateResource.Cache

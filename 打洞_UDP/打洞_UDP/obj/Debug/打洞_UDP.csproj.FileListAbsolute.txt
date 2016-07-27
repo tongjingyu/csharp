@@ -1,0 +1,9 @@
+K:\Home_Project\CSharp\打洞_UDP\打洞_UDP\bin\Debug\打洞_UDP.exe.config
+K:\Home_Project\CSharp\打洞_UDP\打洞_UDP\bin\Debug\打洞_UDP.exe
+K:\Home_Project\CSharp\打洞_UDP\打洞_UDP\bin\Debug\打洞_UDP.pdb
+K:\Home_Project\CSharp\打洞_UDP\打洞_UDP\obj\Debug\打洞_UDP.csprojResolveAssemblyReference.cache
+K:\Home_Project\CSharp\打洞_UDP\打洞_UDP\obj\Debug\打洞_UDP.Form1.resources
+K:\Home_Project\CSharp\打洞_UDP\打洞_UDP\obj\Debug\打洞_UDP.Properties.Resources.resources
+K:\Home_Project\CSharp\打洞_UDP\打洞_UDP\obj\Debug\打洞_UDP.csproj.GenerateResource.Cache
+K:\Home_Project\CSharp\打洞_UDP\打洞_UDP\obj\Debug\打洞_UDP.exe
+K:\Home_Project\CSharp\打洞_UDP\打洞_UDP\obj\Debug\打洞_UDP.pdb

@@ -1,0 +1,16 @@
+J:\SenCat_Project\CSharp\433模块助手\obj\Debug\ResolveAssemblyReference.cache
+J:\SenCat_Project\CSharp\433模块助手\obj\Debug\_433模块助手.Main.resources
+J:\SenCat_Project\CSharp\433模块助手\obj\Debug\_433模块助手.Properties.Resources.resources
+J:\SenCat_Project\CSharp\433模块助手\obj\Debug\433模块助手.csproj.GenerateResource.Cache
+J:\SenCat_Project\CSharp\433模块助手\bin\Debug\433模块助手.exe
+J:\SenCat_Project\CSharp\433模块助手\bin\Debug\433模块助手.pdb
+J:\SenCat_Project\CSharp\433模块助手\obj\Debug\433模块助手.exe
+J:\SenCat_Project\CSharp\433模块助手\obj\Debug\433模块助手.pdb
+J:\Home_Project\CSharp\433模块助手\obj\Debug\433模块助手.exe
+J:\Home_Project\CSharp\433模块助手\obj\Debug\433模块助手.pdb
+J:\Home_Project\CSharp\433模块助手\bin\Debug\433模块助手.exe
+J:\Home_Project\CSharp\433模块助手\bin\Debug\433模块助手.pdb
+J:\Home_Project\CSharp\433模块助手\obj\Debug\433模块助手.csprojResolveAssemblyReference.cache
+J:\Home_Project\CSharp\433模块助手\obj\Debug\_433模块助手.Main.resources
+J:\Home_Project\CSharp\433模块助手\obj\Debug\_433模块助手.Properties.Resources.resources
+J:\Home_Project\CSharp\433模块助手\obj\Debug\433模块助手.csproj.GenerateResource.Cache

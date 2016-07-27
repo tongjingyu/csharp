@@ -1,0 +1,12 @@
+D:\TOM\DOC\CSharp\更新程序\更新程序\bin\Debug\更新程序.exe.config
+D:\TOM\DOC\CSharp\更新程序\更新程序\bin\Debug\更新程序.exe
+D:\TOM\DOC\CSharp\更新程序\更新程序\bin\Debug\更新程序.pdb
+D:\TOM\DOC\CSharp\更新程序\更新程序\obj\Debug\更新程序.csprojResolveAssemblyReference.cache
+D:\TOM\DOC\CSharp\更新程序\更新程序\obj\Debug\更新程序.exe
+D:\TOM\DOC\CSharp\更新程序\更新程序\obj\Debug\更新程序.pdb
+K:\Home_Project\CSharp\更新程序\更新程序\bin\Debug\更新程序.exe.config
+K:\Home_Project\CSharp\更新程序\更新程序\obj\Debug\更新程序.exe
+K:\Home_Project\CSharp\更新程序\更新程序\obj\Debug\更新程序.pdb
+K:\Home_Project\CSharp\更新程序\更新程序\bin\Debug\更新程序.exe
+K:\Home_Project\CSharp\更新程序\更新程序\bin\Debug\更新程序.pdb
+K:\Home_Project\CSharp\更新程序\更新程序\obj\Debug\更新程序.csprojResolveAssemblyReference.cache

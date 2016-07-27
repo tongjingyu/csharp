@@ -1,0 +1,16 @@
+D:\KuaiPan\(一期)项目文件\取颜色\取颜色\bin\Debug\取颜色.exe
+D:\KuaiPan\(一期)项目文件\取颜色\取颜色\bin\Debug\取颜色.pdb
+D:\KuaiPan\(一期)项目文件\取颜色\取颜色\obj\Debug\ResolveAssemblyReference.cache
+D:\KuaiPan\(一期)项目文件\取颜色\取颜色\obj\Debug\取颜色.Form1.resources
+D:\KuaiPan\(一期)项目文件\取颜色\取颜色\obj\Debug\取颜色.Properties.Resources.resources
+D:\KuaiPan\(一期)项目文件\取颜色\取颜色\obj\Debug\取颜色.csproj.GenerateResource.Cache
+D:\KuaiPan\(一期)项目文件\取颜色\取颜色\obj\Debug\取颜色.exe
+D:\KuaiPan\(一期)项目文件\取颜色\取颜色\obj\Debug\取颜色.pdb
+J:\YLN_Project\My_Project\(一期)项目文件\取颜色\取颜色\obj\Debug\取颜色.exe
+J:\YLN_Project\My_Project\(一期)项目文件\取颜色\取颜色\obj\Debug\取颜色.pdb
+J:\YLN_Project\My_Project\(一期)项目文件\取颜色\取颜色\bin\Debug\取颜色.exe
+J:\YLN_Project\My_Project\(一期)项目文件\取颜色\取颜色\bin\Debug\取颜色.pdb
+J:\YLN_Project\My_Project\(一期)项目文件\取颜色\取颜色\obj\Debug\取颜色.csprojResolveAssemblyReference.cache
+J:\YLN_Project\My_Project\(一期)项目文件\取颜色\取颜色\obj\Debug\取颜色.Form1.resources
+J:\YLN_Project\My_Project\(一期)项目文件\取颜色\取颜色\obj\Debug\取颜色.Properties.Resources.resources
+J:\YLN_Project\My_Project\(一期)项目文件\取颜色\取颜色\obj\Debug\取颜色.csproj.GenerateResource.Cache

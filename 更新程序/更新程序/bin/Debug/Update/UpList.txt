@@ -1,0 +1,3 @@
+SensorFace.exe.jpg
+MySql.Data.dll.jpg
+CDFPSK.dll.jpg

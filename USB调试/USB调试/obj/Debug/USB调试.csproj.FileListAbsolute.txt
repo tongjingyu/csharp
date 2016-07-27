@@ -1,0 +1,14 @@
+F:\My Project\CSharp\USB调试\USB调试\bin\Debug\USB调试.exe
+F:\My Project\CSharp\USB调试\USB调试\bin\Debug\USB调试.pdb
+F:\My Project\CSharp\USB调试\USB调试\obj\Debug\ResolveAssemblyReference.cache
+F:\My Project\CSharp\USB调试\USB调试\obj\Debug\USB调试.Form1.resources
+F:\My Project\CSharp\USB调试\USB调试\obj\Debug\USB调试.Properties.Resources.resources
+F:\My Project\CSharp\USB调试\USB调试\obj\Debug\USB调试.csproj.GenerateResource.Cache
+F:\My Project\CSharp\USB调试\USB调试\obj\Debug\USB调试.exe
+F:\My Project\CSharp\USB调试\USB调试\obj\Debug\USB调试.pdb
+K:\Home_Project\CSharp\USB调试\USB调试\bin\Debug\USB调试.exe.config
+K:\Home_Project\CSharp\USB调试\USB调试\obj\Debug\USB调试.exe
+K:\Home_Project\CSharp\USB调试\USB调试\obj\Debug\USB调试.csprojResolveAssemblyReference.cache
+K:\Home_Project\CSharp\USB调试\USB调试\obj\Debug\USB调试.Form1.resources
+K:\Home_Project\CSharp\USB调试\USB调试\obj\Debug\USB调试.Properties.Resources.resources
+K:\Home_Project\CSharp\USB调试\USB调试\obj\Debug\USB调试.csproj.GenerateResource.Cache

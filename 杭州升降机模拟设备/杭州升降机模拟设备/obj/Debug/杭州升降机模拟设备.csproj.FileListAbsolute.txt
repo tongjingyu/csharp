@@ -1,0 +1,9 @@
+K:\Home_Project\CSharp\杭州升降机模拟设备\杭州升降机模拟设备\bin\Debug\杭州升降机模拟设备.exe.config
+K:\Home_Project\CSharp\杭州升降机模拟设备\杭州升降机模拟设备\bin\Debug\杭州升降机模拟设备.exe
+K:\Home_Project\CSharp\杭州升降机模拟设备\杭州升降机模拟设备\bin\Debug\杭州升降机模拟设备.pdb
+K:\Home_Project\CSharp\杭州升降机模拟设备\杭州升降机模拟设备\obj\Debug\杭州升降机模拟设备.csprojResolveAssemblyReference.cache
+K:\Home_Project\CSharp\杭州升降机模拟设备\杭州升降机模拟设备\obj\Debug\杭州升降机模拟设备.Properties.Resources.resources
+K:\Home_Project\CSharp\杭州升降机模拟设备\杭州升降机模拟设备\obj\Debug\杭州升降机模拟设备.csproj.GenerateResource.Cache
+K:\Home_Project\CSharp\杭州升降机模拟设备\杭州升降机模拟设备\obj\Debug\杭州升降机模拟设备.exe
+K:\Home_Project\CSharp\杭州升降机模拟设备\杭州升降机模拟设备\obj\Debug\杭州升降机模拟设备.pdb
+K:\Home_Project\CSharp\杭州升降机模拟设备\杭州升降机模拟设备\obj\Debug\杭州升降机模拟设备.Form1.resources

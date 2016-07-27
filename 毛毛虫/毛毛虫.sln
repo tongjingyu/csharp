@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "毛毛虫", "毛毛虫\毛毛虫.csproj", "{EF9EA9F3-22EF-48B0-A334-AB9F5A0A26A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF9EA9F3-22EF-48B0-A334-AB9F5A0A26A0}.Debug|x86.ActiveCfg = Debug|x86
+		{EF9EA9F3-22EF-48B0-A334-AB9F5A0A26A0}.Debug|x86.Build.0 = Debug|x86
+		{EF9EA9F3-22EF-48B0-A334-AB9F5A0A26A0}.Release|x86.ActiveCfg = Release|x86
+		{EF9EA9F3-22EF-48B0-A334-AB9F5A0A26A0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

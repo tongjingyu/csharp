@@ -1,0 +1,10 @@
+J:\SenCat_Project\CSharp\串口调试助手\串口调试助手\obj\Debug\串口调试助手.exe
+J:\SenCat_Project\CSharp\串口调试助手\串口调试助手\obj\Debug\串口调试助手.pdb
+K:\Home_Project\CSharp\串口调试助手\串口调试助手\obj\Debug\串口调试助手.exe
+K:\Home_Project\CSharp\串口调试助手\串口调试助手\obj\Debug\串口调试助手.pdb
+K:\Home_Project\CSharp\串口调试助手\串口调试助手\bin\Debug\串口调试助手.exe
+K:\Home_Project\CSharp\串口调试助手\串口调试助手\bin\Debug\串口调试助手.pdb
+K:\Home_Project\CSharp\串口调试助手\串口调试助手\obj\Debug\串口调试助手.csprojResolveAssemblyReference.cache
+K:\Home_Project\CSharp\串口调试助手\串口调试助手\obj\Debug\串口调试助手.Form1.resources
+K:\Home_Project\CSharp\串口调试助手\串口调试助手\obj\Debug\串口调试助手.Properties.Resources.resources
+K:\Home_Project\CSharp\串口调试助手\串口调试助手\obj\Debug\串口调试助手.csproj.GenerateResource.Cache

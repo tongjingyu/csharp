@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2AA0CF3F-B53D-4D14-B61F-BF58A1295C8F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>奇奇邮件助手</RootNamespace>
+    <AssemblyName>奇奇邮件助手</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>256.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>bin\Debug\Sys\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\CS_LIB\DataBase.cs">
+      <Link>User\DataBase.cs</Link>
+    </Compile>
+    <Compile Include="..\..\CS_LIB\DataSave.cs">
+      <Link>User\DataSave.cs</Link>
+    </Compile>
+    <Compile Include="..\..\CS_LIB\Excel.cs">
+      <Link>User\Excel.cs</Link>
+    </Compile>
+    <Compile Include="..\..\CS_LIB\FileMan.cs">
+      <Link>User\FileMan.cs</Link>
+    </Compile>
+    <Compile Include="..\..\CS_LIB\Ini.cs">
+      <Link>User\Ini.cs</Link>
+    </Compile>
+    <Compile Include="..\..\CS_LIB\KeyLogger.cs">
+      <Link>User\KeyLogger.cs</Link>
+    </Compile>
+    <Compile Include="..\..\CS_LIB\login.cs">
+      <Link>User\login.cs</Link>
+    </Compile>
+    <Compile Include="..\..\CS_LIB\Mail.cs">
+      <Link>User\Mail.cs</Link>
+    </Compile>
+    <Compile Include="..\..\CS_LIB\MySql.cs">
+      <Link>User\MySql.cs</Link>
+    </Compile>
+    <Compile Include="..\..\CS_LIB\PC_Infor.cs">
+      <Link>User\PC_Infor.cs</Link>
+    </Compile>
+    <Compile Include="..\..\CS_LIB\RegEdit.cs">
+      <Link>User\RegEdit.cs</Link>
+    </Compile>
+    <Compile Include="..\..\CS_LIB\Security.cs">
+      <Link>User\Security.cs</Link>
+    </Compile>
+    <Compile Include="..\..\CS_LIB\SendMail.cs">
+      <Link>User\SendMail.cs</Link>
+    </Compile>
+    <Compile Include="..\..\CS_LIB\Thread.cs">
+      <Link>User\Thread.cs</Link>
+    </Compile>
+    <Compile Include="..\..\CS_LIB\Tools.cs">
+      <Link>User\Tools.cs</Link>
+    </Compile>
+    <Compile Include="..\..\CS_LIB\Value.cs">
+      <Link>User\Value.cs</Link>
+    </Compile>
+    <Compile Include="..\..\CS_LIB\ValueBag.cs">
+      <Link>User\ValueBag.cs</Link>
+    </Compile>
+    <Compile Include="意见反馈.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="意见反馈.Designer.cs">
+      <DependentUpon>意见反馈.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="意见反馈.resx">
+      <DependentUpon>意见反馈.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="qq群成员导出.resx">
+      <DependentUpon>qq群成员导出.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QQ邮箱通信录转换.resx">
+      <DependentUpon>QQ邮箱通信录转换.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="共享.resx">
+      <DependentUpon>共享.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="关于.resx">
+      <DependentUpon>关于.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="注册.resx">
+      <DependentUpon>注册.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="登陆.resx">
+      <DependentUpon>登陆.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="qq群成员导出.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="qq群成员导出.Designer.cs">
+      <DependentUpon>qq群成员导出.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QQ邮箱通信录转换.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QQ邮箱通信录转换.Designer.cs">
+      <DependentUpon>QQ邮箱通信录转换.cs</DependentUpon>
+    </Compile>
+    <Compile Include="共享.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="共享.Designer.cs">
+      <DependentUpon>共享.cs</DependentUpon>
+    </Compile>
+    <Compile Include="关于.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="关于.Designer.cs">
+      <DependentUpon>关于.cs</DependentUpon>
+    </Compile>
+    <Compile Include="注册.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="注册.Designer.cs">
+      <DependentUpon>注册.cs</DependentUpon>
+    </Compile>
+    <Compile Include="登陆.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="登陆.Designer.cs">
+      <DependentUpon>登陆.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Succeed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="256.ico" />
+    <Content Include="2561.ico" />
+    <Content Include="33.ico" />
+    <None Include="Resources\新建位图图像.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

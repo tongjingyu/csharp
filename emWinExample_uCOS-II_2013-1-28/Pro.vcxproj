@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{3AED20AA-4F1A-4005-9986-6D6C43C8E7A3}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>emWinExample_VS2010</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>./Application;./Config;./GUI;./Simulation;./App;./uCOS/Ports;./uCOS/Source;$(IncludePath)</IncludePath>
+    <LibraryPath>./GUI;./Simulation;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>GUI.lib;GUISim.lib;winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <IgnoreSpecificDefaultLibraries>LIBC.lib</IgnoreSpecificDefaultLibraries>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="App\emWin_App.c" />
+    <ClCompile Include="App\uCOS_APP.c" />
+    <ClCompile Include="Config\GUIConf.c" />
+    <ClCompile Include="Config\LCDConf.c" />
+    <ClCompile Include="Config\SIMConf.c" />
+    <ClCompile Include="Simulation\WinMain.c" />
+    <ClCompile Include="uCOS\Ports\os_cpu_c.c" />
+    <ClCompile Include="uCOS\Ports\os_dbg.c" />
+    <ClCompile Include="uCOS\Ports\pc.c" />
+    <ClCompile Include="uCOS\Source\os_core.c" />
+    <ClCompile Include="uCOS\Source\os_flag.c" />
+    <ClCompile Include="uCOS\Source\os_mbox.c" />
+    <ClCompile Include="uCOS\Source\os_mem.c" />
+    <ClCompile Include="uCOS\Source\os_mutex.c" />
+    <ClCompile Include="uCOS\Source\os_q.c" />
+    <ClCompile Include="uCOS\Source\os_sem.c" />
+    <ClCompile Include="uCOS\Source\os_task.c" />
+    <ClCompile Include="uCOS\Source\os_time.c" />
+    <ClCompile Include="uCOS\Source\os_tmr.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Config\GUIConf.h" />
+    <ClInclude Include="Config\LCDConf.h" />
+    <ClInclude Include="GUI\BUTTON.h" />
+    <ClInclude Include="GUI\BUTTON_Private.h" />
+    <ClInclude Include="GUI\CHECKBOX.h" />
+    <ClInclude Include="GUI\CHECKBOX_Private.h" />
+    <ClInclude Include="GUI\DIALOG.h" />
+    <ClInclude Include="GUI\DIALOG_Intern.h" />
+    <ClInclude Include="GUI\DROPDOWN.h" />
+    <ClInclude Include="GUI\DROPDOWN_Private.h" />
+    <ClInclude Include="GUI\EDIT.h" />
+    <ClInclude Include="GUI\EDIT_Private.h" />
+    <ClInclude Include="GUI\FRAMEWIN.h" />
+    <ClInclude Include="GUI\FRAMEWIN_Private.h" />
+    <ClInclude Include="GUI\Global.h" />
+    <ClInclude Include="GUI\GRAPH.h" />
+    <ClInclude Include="GUI\GRAPH_Private.h" />
+    <ClInclude Include="GUI\GUI.h" />
+    <ClInclude Include="GUI\GUI_ARRAY.h" />
+    <ClInclude Include="GUI\GUI_ARRAY_Private.h" />
+    <ClInclude Include="GUI\GUI_BMP_Private.h" />
+    <ClInclude Include="GUI\GUI_ConfDefaults.h" />
+    <ClInclude Include="GUI\GUI_Debug.h" />
+    <ClInclude Include="GUI\GUI_FontIntern.h" />
+    <ClInclude Include="GUI\GUI_GIF_Private.h" />
+    <ClInclude Include="GUI\GUI_HOOK.h" />
+    <ClInclude Include="GUI\GUI_JPEG_Private.h" />
+    <ClInclude Include="GUI\GUI_Private.h" />
+    <ClInclude Include="GUI\GUI_SIM_Win32.h" />
+    <ClInclude Include="GUI\GUI_Type.h" />
+    <ClInclude Include="GUI\GUI_Version.h" />
+    <ClInclude Include="GUI\GUI_VNC.h" />
+    <ClInclude Include="GUI\HEADER.h" />
+    <ClInclude Include="GUI\HEADER_Private.h" />
+    <ClInclude Include="GUI\ICONVIEW.h" />
+    <ClInclude Include="GUI\ICONVIEW_Private.h" />
+    <ClInclude Include="GUI\LCD.h" />
+    <ClInclude Include="GUI\LCDSIM_Private.h" />
+    <ClInclude Include="GUI\LCD_ConfDefaults.h" />
+    <ClInclude Include="GUI\LCD_Private.h" />
+    <ClInclude Include="GUI\LCD_Protected.h" />
+    <ClInclude Include="GUI\LCD_SIM.h" />
+    <ClInclude Include="GUI\LISTBOX.h" />
+    <ClInclude Include="GUI\LISTBOX_Private.h" />
+    <ClInclude Include="GUI\LISTVIEW.h" />
+    <ClInclude Include="GUI\LISTVIEW_Private.h" />
+    <ClInclude Include="GUI\LISTWHEEL.h" />
+    <ClInclude Include="GUI\LISTWHEEL_Private.h" />
+    <ClInclude Include="GUI\MENU.h" />
+    <ClInclude Include="GUI\MENU_Private.h" />
+    <ClInclude Include="GUI\MESSAGEBOX.h" />
+    <ClInclude Include="GUI\MULTIEDIT.h" />
+    <ClInclude Include="GUI\MULTIPAGE.h" />
+    <ClInclude Include="GUI\MULTIPAGE_Private.h" />
+    <ClInclude Include="GUI\PROGBAR.h" />
+    <ClInclude Include="GUI\PROGBAR_Private.h" />
+    <ClInclude Include="GUI\RADIO.h" />
+    <ClInclude Include="GUI\RADIO_Private.h" />
+    <ClInclude Include="GUI\SCROLLBAR.h" />
+    <ClInclude Include="GUI\SCROLLBAR_Private.h" />
+    <ClInclude Include="GUI\SIM.h" />
+    <ClInclude Include="GUI\SIM_GetRegions.h" />
+    <ClInclude Include="GUI\SLIDER.h" />
+    <ClInclude Include="GUI\SLIDER_Private.h" />
+    <ClInclude Include="GUI\TEXT.h" />
+    <ClInclude Include="GUI\TEXT_Private.h" />
+    <ClInclude Include="GUI\TREEVIEW.h" />
+    <ClInclude Include="GUI\TREEVIEW_Private.h" />
+    <ClInclude Include="GUI\WIDGET.h" />
+    <ClInclude Include="GUI\WINDOW_Private.h" />
+    <ClInclude Include="GUI\WM.h" />
+    <ClInclude Include="GUI\WM_GUI.h" />
+    <ClInclude Include="GUI\WM_Intern.h" />
+    <ClInclude Include="GUI\WM_Intern_ConfDep.h" />
+    <ClInclude Include="Simulation\GUI_SIM_Win32.h" />
+    <ClInclude Include="uCOS\Ports\app_cfg.h" />
+    <ClInclude Include="uCOS\Ports\os_cfg.h" />
+    <ClInclude Include="uCOS\Ports\os_cpu.h" />
+    <ClInclude Include="uCOS\Ports\pc.h" />
+    <ClInclude Include="uCOS\Ports\ucos_includes.h" />
+    <ClInclude Include="uCOS\Source\ucos_ii.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="GUI\GUI.lib" />
+    <Library Include="Simulation\GUISim.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Simulation\Simulation.res" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

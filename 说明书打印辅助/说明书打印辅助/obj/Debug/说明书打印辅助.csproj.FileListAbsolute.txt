@@ -1,0 +1,8 @@
+J:\SenCat_Project\CSharp\说明书打印辅助\说明书打印辅助\bin\Debug\说明书打印辅助.exe
+J:\SenCat_Project\CSharp\说明书打印辅助\说明书打印辅助\bin\Debug\说明书打印辅助.pdb
+J:\SenCat_Project\CSharp\说明书打印辅助\说明书打印辅助\obj\Debug\ResolveAssemblyReference.cache
+J:\SenCat_Project\CSharp\说明书打印辅助\说明书打印辅助\obj\Debug\说明书打印辅助.Properties.Resources.resources
+J:\SenCat_Project\CSharp\说明书打印辅助\说明书打印辅助\obj\Debug\说明书打印辅助.csproj.GenerateResource.Cache
+J:\SenCat_Project\CSharp\说明书打印辅助\说明书打印辅助\obj\Debug\说明书打印辅助.exe
+J:\SenCat_Project\CSharp\说明书打印辅助\说明书打印辅助\obj\Debug\说明书打印辅助.pdb
+J:\SenCat_Project\CSharp\说明书打印辅助\说明书打印辅助\obj\Debug\说明书打印辅助.Form1.resources

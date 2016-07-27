@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="KeyLoggerTest">
+</Property><Property Name="解决方案文件" Value="C:\Users\TOM\Desktop\键盘记录\KeyLoggerTest\KeyLoggerTest.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\TOM\Desktop\键盘记录\KeyLoggerTest\KeyLoggerTest.suo">
+</Property><Property Name="Date" Value="2014年4月29日">
+</Property><Property Name="Time" Value="18:33">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="KeyLoggerTest.sln" Description="文件已成功备份为 C:\Users\TOM\Desktop\键盘记录\KeyLoggerTest\Backup\KeyLoggerTest.sln">
+</Event><Event ErrorLevel="0" Project="" Source="KeyLoggerTest.suo" Description="文件已成功备份为 C:\Users\TOM\Desktop\键盘记录\KeyLoggerTest\Backup\KeyLoggerTest.suo">
+</Event><Event ErrorLevel="0" Project="KeyLoggerTest" Source="KeyLoggerTest.csproj" Description="项目文件已成功备份为 C:\Users\TOM\Desktop\键盘记录\KeyLoggerTest\Backup\KeyLoggerTest.csproj">
+</Event><Event ErrorLevel="0" Project="KeyLoggerTest" Source="MainForm.cs" Description="文件已成功备份为 C:\Users\TOM\Desktop\键盘记录\KeyLoggerTest\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="KeyLoggerTest" Source="MainForm.Designer.cs" Description="文件已成功备份为 C:\Users\TOM\Desktop\键盘记录\KeyLoggerTest\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KeyLoggerTest" Source="AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\TOM\Desktop\键盘记录\KeyLoggerTest\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="KeyLoggerTest" Source="MainForm.resx" Description="文件已成功备份为 C:\Users\TOM\Desktop\键盘记录\KeyLoggerTest\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="KeyLoggerTest" Source="KeyLoggerTest.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="KeyLoggerTest" Source="KeyLoggerTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="KeyLoggerTest.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="KeyLoggerTest.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="KeyLoggerTest" Source="KeyLoggerTest.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

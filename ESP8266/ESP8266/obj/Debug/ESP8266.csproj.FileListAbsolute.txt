@@ -1,0 +1,16 @@
+J:\SenCat_Project\CSharp\ESP8266\ESP8266\bin\Debug\ESP8266.exe
+J:\SenCat_Project\CSharp\ESP8266\ESP8266\bin\Debug\ESP8266.pdb
+J:\SenCat_Project\CSharp\ESP8266\ESP8266\obj\Debug\ResolveAssemblyReference.cache
+J:\SenCat_Project\CSharp\ESP8266\ESP8266\obj\Debug\ESP8266.Properties.Resources.resources
+J:\SenCat_Project\CSharp\ESP8266\ESP8266\obj\Debug\ESP8266.csproj.GenerateResource.Cache
+J:\SenCat_Project\CSharp\ESP8266\ESP8266\obj\Debug\ESP8266.exe
+J:\SenCat_Project\CSharp\ESP8266\ESP8266\obj\Debug\ESP8266.pdb
+J:\SenCat_Project\CSharp\ESP8266\ESP8266\obj\Debug\ESP8266.Form1.resources
+K:\Home_Project\CSharp\ESP8266\ESP8266\obj\Debug\ESP8266.exe
+K:\Home_Project\CSharp\ESP8266\ESP8266\obj\Debug\ESP8266.pdb
+K:\Home_Project\CSharp\ESP8266\ESP8266\bin\Debug\ESP8266.exe
+K:\Home_Project\CSharp\ESP8266\ESP8266\bin\Debug\ESP8266.pdb
+K:\Home_Project\CSharp\ESP8266\ESP8266\obj\Debug\ESP8266.csprojResolveAssemblyReference.cache
+K:\Home_Project\CSharp\ESP8266\ESP8266\obj\Debug\ESP8266.Form1.resources
+K:\Home_Project\CSharp\ESP8266\ESP8266\obj\Debug\ESP8266.Properties.Resources.resources
+K:\Home_Project\CSharp\ESP8266\ESP8266\obj\Debug\ESP8266.csproj.GenerateResource.Cache

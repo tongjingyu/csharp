@@ -1,0 +1,9 @@
+K:\Home_Project\CSharp\模拟鼠标\模拟鼠标\bin\Debug\模拟鼠标.exe.config
+K:\Home_Project\CSharp\模拟鼠标\模拟鼠标\bin\Debug\模拟鼠标.exe
+K:\Home_Project\CSharp\模拟鼠标\模拟鼠标\bin\Debug\模拟鼠标.pdb
+K:\Home_Project\CSharp\模拟鼠标\模拟鼠标\obj\Debug\模拟鼠标.Form1.resources
+K:\Home_Project\CSharp\模拟鼠标\模拟鼠标\obj\Debug\模拟鼠标.Properties.Resources.resources
+K:\Home_Project\CSharp\模拟鼠标\模拟鼠标\obj\Debug\模拟鼠标.csproj.GenerateResource.Cache
+K:\Home_Project\CSharp\模拟鼠标\模拟鼠标\obj\Debug\模拟鼠标.exe
+K:\Home_Project\CSharp\模拟鼠标\模拟鼠标\obj\Debug\模拟鼠标.pdb
+K:\Home_Project\CSharp\模拟鼠标\模拟鼠标\obj\Debug\模拟鼠标.csprojResolveAssemblyReference.cache

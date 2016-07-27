@@ -1,0 +1,5 @@
+D:\TOM\CSharp\TP配置网站\bin\TP配置网站.dll.config
+D:\TOM\CSharp\TP配置网站\bin\TP配置网站.dll
+D:\TOM\CSharp\TP配置网站\bin\TP配置网站.pdb
+D:\TOM\CSharp\TP配置网站\obj\Release\TP配置网站.dll
+D:\TOM\CSharp\TP配置网站\obj\Release\TP配置网站.pdb

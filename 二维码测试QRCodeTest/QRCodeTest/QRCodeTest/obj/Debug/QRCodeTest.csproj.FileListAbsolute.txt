@@ -1,0 +1,17 @@
+E:\QQPCmgr\Desktop\TelnetServer\QRCodeTest\QRCodeTest\bin\Debug\QRCodeTest.exe
+E:\QQPCmgr\Desktop\TelnetServer\QRCodeTest\QRCodeTest\bin\Debug\QRCodeTest.pdb
+E:\QQPCmgr\Desktop\TelnetServer\QRCodeTest\QRCodeTest\bin\Debug\ThoughtWorks.QRCode.dll
+E:\QQPCmgr\Desktop\TelnetServer\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.Form1.resources
+E:\QQPCmgr\Desktop\TelnetServer\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.Properties.Resources.resources
+E:\QQPCmgr\Desktop\TelnetServer\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.csproj.GenerateResource.Cache
+E:\QQPCmgr\Desktop\TelnetServer\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.exe
+E:\QQPCmgr\Desktop\TelnetServer\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.pdb
+E:\QQPCmgr\Desktop\QRCodeTest\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.exe
+E:\QQPCmgr\Desktop\QRCodeTest\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.pdb
+E:\QQPCmgr\Desktop\QRCodeTest\QRCodeTest\QRCodeTest\bin\Debug\QRCodeTest.exe
+E:\QQPCmgr\Desktop\QRCodeTest\QRCodeTest\QRCodeTest\bin\Debug\QRCodeTest.pdb
+E:\QQPCmgr\Desktop\QRCodeTest\QRCodeTest\QRCodeTest\bin\Debug\ThoughtWorks.QRCode.pdb
+E:\QQPCmgr\Desktop\QRCodeTest\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.csprojResolveAssemblyReference.cache
+E:\QQPCmgr\Desktop\QRCodeTest\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.Form1.resources
+E:\QQPCmgr\Desktop\QRCodeTest\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.Properties.Resources.resources
+E:\QQPCmgr\Desktop\QRCodeTest\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.csproj.GenerateResource.Cache

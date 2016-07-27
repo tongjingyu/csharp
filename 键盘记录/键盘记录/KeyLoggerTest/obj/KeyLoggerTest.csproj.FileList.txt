@@ -1,0 +1,8 @@
+bin\Debug\KeyLoggerTest.exe
+bin\Debug\KeyLoggerTest.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\KeyLoggerTest.MainForm.resources
+obj\Debug\KeyLoggerTest.csproj.GenerateResource.Cache
+obj\Debug\KeyLoggerTest.exe
+obj\Debug\KeyLoggerTest.pdb
+bin\Debug\KeyLogger.dll

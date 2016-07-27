@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CSHARP_POSTEK_PRINT.Form1.resources
+obj\Debug\CSHARP_POSTEK_PRINT.Properties.Resources.resources
+obj\Debug\CSHARP_POSTEK_PRINT.csproj.GenerateResource.Cache
+bin\Debug\CSHARP_POSTEK_PRINT.exe
+bin\Debug\CSHARP_POSTEK_PRINT.pdb
+obj\Debug\CSHARP_POSTEK_PRINT.exe
+obj\Debug\CSHARP_POSTEK_PRINT.pdb

@@ -1,0 +1,8 @@
+E:\KuaiPan\(一期)项目文件\TXTShow\TXTShow\bin\Debug\TXTShow.exe
+E:\KuaiPan\(一期)项目文件\TXTShow\TXTShow\bin\Debug\TXTShow.pdb
+E:\KuaiPan\(一期)项目文件\TXTShow\TXTShow\obj\Debug\ResolveAssemblyReference.cache
+E:\KuaiPan\(一期)项目文件\TXTShow\TXTShow\obj\Debug\TXTShow.Form1.resources
+E:\KuaiPan\(一期)项目文件\TXTShow\TXTShow\obj\Debug\TXTShow.Properties.Resources.resources
+E:\KuaiPan\(一期)项目文件\TXTShow\TXTShow\obj\Debug\TXTShow.csproj.GenerateResource.Cache
+E:\KuaiPan\(一期)项目文件\TXTShow\TXTShow\obj\Debug\TXTShow.exe
+E:\KuaiPan\(一期)项目文件\TXTShow\TXTShow\obj\Debug\TXTShow.pdb
