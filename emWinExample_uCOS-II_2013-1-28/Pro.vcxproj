@@ -81,6 +81,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="App\emWin_App.c" />
+    <ClCompile Include="App\Login.c" />
     <ClCompile Include="App\uCOS_APP.c" />
     <ClCompile Include="Config\GUIConf.c" />
     <ClCompile Include="Config\LCDConf.c" />
@@ -185,7 +186,7 @@
   </ItemGroup>
   <ItemGroup>
     <Library Include="GUI\GUI.lib" />
-    <Library Include="Simulation\GUISim.lib" />
+    <Library Include="Simulation\GUIx86.lib" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Simulation\Simulation.res" />

@@ -4,9 +4,6 @@
 #include "DIALOG.h"
 
 
-#define ID_WINDOW_0   (GUI_ID_USER + 0x00)
-#define ID_BUTTON_0   (GUI_ID_USER + 0x01)
-
 
 #define CenterPointX 100
 #define CenterPointY GUI_GetScreenSizeY()-100
@@ -14,48 +11,7 @@ INT16U CursorX, CursorY;
 UINT8 DrawBuffer[1000];
 OS_STK PoolFitelMStk[TASK_STK_SIZE];
 
-static const GUI_WIDGET_CREATE_INFO _aDialogCreate[] = {
-	{ WINDOW_CreateIndirect, "Window", ID_WINDOW_0, 0, 0, 320, 240, 0, 0x0},
-	{ BUTTON_CreateIndirect, "Button", ID_BUTTON_0, 84, 61, 173, 68, 0, 0x0},
-	// USER START (Optionally insert additional widgets)
-	// USER END
-};
-static void _cbDialog(WM_MESSAGE * pMsg) {
-	int NCode;
-	int Id;
-	// USER START (Optionally insert additional variables)
-	// USER END
 
-	switch (pMsg->MsgId) {
-	case WM_NOTIFY_PARENT:
-		Id = WM_GetId(pMsg->hWinSrc);
-		NCode = pMsg->Data.v;
-		switch (Id) {
-		case ID_BUTTON_0: // Notifications sent by 'Button'
-			switch (NCode) {
-			case WM_NOTIFICATION_CLICKED:
-				// USER START (Optionally insert code for reacting on notification message)
-				// USER END
-				break;
-			case WM_NOTIFICATION_RELEASED:
-				// USER START (Optionally insert code for reacting on notification message)
-				// USER END
-				break;
-				// USER START (Optionally insert additional code for further notification handling)
-				// USER END
-			}
-			break;
-			// USER START (Optionally insert additional code for further Ids)
-			// USER END
-		}
-		break;
-		// USER START (Optionally insert additional message handling)
-		// USER END
-	default:
-		WM_DefaultProc(pMsg);
-		break;
-	}
-}
 INT16U FlowPoolFilter(INT32U *Pool, INT16U Data, INT8U *PoolIndex, INT8U PoolSize)
 {
 	INT16U Old_Filter = 0;
@@ -120,13 +76,13 @@ void Task_PoolFitel(void *pdata) {
 
 void Task_TestUI(void *pdata)
 {
+	WM_HWIN hWin;
 	(void)pdata;//∑¿÷π±‡“Î∆˜±®¥Ì
 	PROGBAR_Handle hbar;
 	GUI_Init();
+	CreateLogin();
 	while(1)
 	{
-		GUI_DispStringAt("fdsafdsa", 100, 20);
-		hbar = PROGBAR_Create(100, 40, 100, 20, WM_CF_SHOW);
-		OSTimeDly(10);
+		GUI_Delay(10);
 	}
 }

@@ -31,8 +31,8 @@ Purpose     : Display controller configuration (single layer)
 //
 // Physical display size
 //
-#define XSIZE_PHYS 800
-#define YSIZE_PHYS 480
+#define XSIZE_PHYS 480
+#define YSIZE_PHYS 272
 
 //
 // Color conversion

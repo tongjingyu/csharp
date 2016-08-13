@@ -58,6 +58,9 @@
     <ClCompile Include="App\emWin_App.c">
       <Filter>App</Filter>
     </ClCompile>
+    <ClCompile Include="App\Login.c">
+      <Filter>App</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Config\GUIConf.h">
@@ -305,11 +308,11 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Library Include="Simulation\GUISim.lib">
-      <Filter>Simulation</Filter>
-    </Library>
     <Library Include="GUI\GUI.lib">
       <Filter>GUI</Filter>
+    </Library>
+    <Library Include="Simulation\GUIx86.lib">
+      <Filter>Simulation</Filter>
     </Library>
   </ItemGroup>
   <ItemGroup>
