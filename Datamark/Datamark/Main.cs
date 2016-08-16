@@ -85,7 +85,18 @@ namespace Datamark
         }
         public void SaveImg(string file, Bitmap img)
         {
-                img.Save(file, System.Drawing.Imaging.ImageFormat.Png);
+            //保存图片到目录
+            if (Directory.Exists(file))
+            {
+                //文件名称
+                string guid = CodeID + ".png";
+                img.Save(file + "/" + guid, System.Drawing.Imaging.ImageFormat.Png);
+            }
+            else
+            {
+                //当前目录不存在，则创建
+                Directory.CreateDirectory(file);
+            }
         }
         private void 删除ToolStripMenuItem1_Click(object sender, EventArgs e)
         {
@@ -94,7 +105,7 @@ namespace Datamark
             linkLabel1.Tag = "http://www.trtos.com/";
             pictureBox1.BackgroundImage = Properties.Resources.code;
         }
-
+        readonly string currentPath = Application.StartupPath + @"\BarCode_Images";
         private void 新建ToolStripMenuItem2_Click(object sender, EventArgs e)
         {
             string ID=MySql.GetID();
@@ -109,6 +120,7 @@ namespace Datamark
             string DataCode = "http://www.trtos.com/php/s.php?id="+ ID;
             linkLabel1.Tag = DataCode;
             Bitmap bs = Create_ImgCode(DataCode, 8);
+            SaveImg(currentPath, bs);
             pictureBox1.BackgroundImage = bs;
             richTextBox2.Clear();
         }
@@ -140,16 +152,16 @@ namespace Datamark
 
         private void Main_FormClosing(object sender, FormClosingEventArgs e)
         {
-            try
+            //try
             {
                 ProcessStartInfo ps = new ProcessStartInfo("更新程序.exe");
                 ps.UseShellExecute = false;
-                ps.CreateNoWindow = true;
+             //   ps.CreateNoWindow = true;
                 ps.Arguments = "Datamark";
-                ps.WindowStyle = ProcessWindowStyle.Hidden;
+              //  ps.WindowStyle = ProcessWindowStyle.Hidden;
                 Process.Start(ps);
             }
-            catch { }
+          //  catch { }
         }
 
         private void 退出ToolStripMenuItem1_Click(object sender, EventArgs e)

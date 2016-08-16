@@ -19,6 +19,7 @@ namespace Datamark
             try
             {
                 Connect = new MySqlConnection(M_str_sqlcon);
+                Connect.Open();
             }
             catch { }
         }
@@ -27,10 +28,10 @@ namespace Datamark
 
             try
             {
+                if(Connect.State.ToString()=="Open")return false;
                 Connect.Open();
-
             }
-            catch { return false; }
+            catch { CreateSqlConnet();}
             return true;
 
         }
@@ -45,19 +46,16 @@ namespace Datamark
         }
         public static void ConnectSql()
         {
-            CreateSqlConnet();
-            TryOpen();
- 
+            //CreateSqlConnet();
         }
         public static string GetID()
         {
-           
-           string Com="SELECT FLOOR(RAND() * 999999999) AS random_num "+
+            TryOpen();
+            string Com="SELECT FLOOR(RAND() * 999999999) AS random_num "+
                       "FROM tp_follow "+
                       "WHERE 'random_num' NOT IN(SELECT id FROM tp_follow) " +
                       "LIMIT 1 ";
             MySqlCommand mysqlcom = new MySqlCommand(Com, Connect);
-            //MySqlCommand mysqlcom = new MySqlCommand("select max(id) from tp_follow", Connect);
             mysqlcom.ExecuteNonQuery();
             DataTable dt = new DataTable();
             MySqlDataReader sdr = mysqlcom.ExecuteReader();
@@ -72,7 +70,6 @@ namespace Datamark
         }
         public static string Instar(string ID,string Name,string Value)
         {
-            CreateSqlConnet();
             TryOpen();
             string Com = "INSERT into tp_follow (id,NAME,VALUE) VALUES("+ ID + ",'"+Name+"','"+Value+"')";
             MySqlCommand mysqlcom = new MySqlCommand(Com, Connect);
